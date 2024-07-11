@@ -41,7 +41,7 @@ y = data['Result']
 X = data.drop('Result', axis=1)
 
 # One-hot encoding cho dữ liệu người chơi
-encoder = OneHotEncoder(sparse=False, handle_unknown='ignore')
+encoder = OneHotEncoder(handle_unknown='ignore')
 X_encoded = encoder.fit_transform(X)
 
 # Tên các feature sau khi encode
