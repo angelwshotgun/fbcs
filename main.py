@@ -12,7 +12,7 @@ from github import Github
 app = Flask(__name__)
 
 # GitHub configuration
-GITHUB_TOKEN = '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' 
+GITHUB_TOKEN = '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' 
 REPO_NAME = 'angelwshotgun/fbcs' 
 FILE_PATH = 'match_data.csv'
 
