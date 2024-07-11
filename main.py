@@ -8,11 +8,15 @@ import os
 import requests
 from io import StringIO
 from github import Github
+from dotenv import load_dotenv
+
+# Load biến môi trường từ file .env
+load_dotenv()
 
 app = Flask(__name__)
 
 # GitHub configuration
-GITHUB_TOKEN = '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' 
+GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 REPO_NAME = 'angelwshotgun/fbcs' 
 FILE_PATH = 'match_data.csv'
 
