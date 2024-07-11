@@ -104,26 +104,71 @@ def divide_teams():
         'prob2': prob2
     })
 
+# Thêm route mới để đọc lại dữ liệu
+@app.route('/reload_data', methods=['GET'])
+def reload_data():
+    global data, X, y, encoder, model, feature_names
+    
+    # Đọc lại dữ liệu từ GitHub
+    data = read_csv_from_github()
+    
+    # Tách kết quả trận đấu và thông tin người chơi
+    y = data['Result']
+    X = data.drop('Result', axis=1)
+    
+    # One-hot encoding cho dữ liệu người chơi
+    encoder = OneHotEncoder(handle_unknown='ignore')
+    X_encoded = encoder.fit_transform(X)
+    
+    # Tên các feature sau khi encode
+    feature_names = encoder.get_feature_names_out(X.columns)
+    
+    # Huấn luyện lại mô hình
+    model = OneVsRestClassifier(LogisticRegression(solver='lbfgs'))
+    model.fit(X_encoded, y)
+    
+    return jsonify({'message': 'Dữ liệu đã được cập nhật thành công!'})
+
+# Sửa đổi hàm update_scores
 @app.route('/update_scores', methods=['POST'])
 def update_scores():
     winning_team = request.json['winning_team']
     team1 = request.json['team1']
     team2 = request.json['team2']
     
-    if winning_team == 'red':
-        for player in team1:
-            data.loc[data['Player'] == player, 'Result'] += 1
-        for player in team2:
-            data.loc[data['Player'] == player, 'Result'] -= 1
-    else:
-        for player in team2:
-            data.loc[data['Player'] == player, 'Result'] += 1
-        for player in team1:
-            data.loc[data['Player'] == player, 'Result'] -= 1
+     # Lấy tất cả tên người chơi từ cột của dataframe
+    all_players = data.columns.tolist()[:-1]  # Loại bỏ cột 'Result'
     
-    # Save the updated dataset to GitHub
+    # Tạo một dictionary để lưu trữ giá trị cho mỗi người chơi
+    player_values = {player: 0 for player in all_players}
+    
+    # Cập nhật giá trị cho người chơi trong team1
+    for player in team1:
+        player_values[player] = 1
+    
+    # Cập nhật giá trị cho người chơi trong team2
+    for player in team2:
+        player_values[player] = 2
+    
+    # Tạo một hàng mới để thêm vào dataframe
+    new_row = list(player_values.values())
+    
+    # Thêm giá trị Result
+    if winning_team == 'red':
+        new_row.append(1)  # Team 1 thắng
+    else:
+        new_row.append(2)  # Team 2 thắng
+    
+    # Thêm hàng mới vào dataframe
+    data.loc[len(data)] = new_row
+    
+    # Lưu dataframe đã cập nhật vào GitHub
     save_csv_to_github(data)
-    return jsonify({'message': 'Cập nhật điểm thành công!'})
+    
+    # Đọc lại dữ liệu và huấn luyện lại mô hình
+    reload_data()
+    
+    return jsonify({'message': 'Cập nhật kết quả và tải lại dữ liệu thành công!'})
 
 if __name__ == '__main__':
     app.run(debug=True, port=int(os.environ.get('PORT', 8000)))
