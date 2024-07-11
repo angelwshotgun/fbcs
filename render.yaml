@@ -1,0 +1,9 @@
+services:
+  - name: web
+    env: python
+    build_command: pip install -r requirements.txt
+    start_command: waitress-serve --port=8000 main:app
+    github:
+      branch: main
+    env_vars:
+      PORT: 8080
