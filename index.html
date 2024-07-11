@@ -91,8 +91,11 @@
     </div>
 
     <script>
-        // Fetch the players from the backend
-        async function fetchPlayers() {
+        let selectedTeam1 = [];
+        let selectedTeam2 = [];
+
+        // Fetch the players from the backend and create checkboxes (initially called only once)
+        async function init() {
             const response = await fetch('/players');
             const players = await response.json();
             createCheckboxes(players);
@@ -101,6 +104,7 @@
         // Create checkboxes for each player
         function createCheckboxes(players) {
             const container = document.getElementById("checkboxes");
+            container.innerHTML = ''; // Clear existing checkboxes
             players.forEach((player, index) => {
                 const checkbox = document.createElement("input");
                 checkbox.type = "checkbox";
@@ -135,6 +139,8 @@
             });
 
             const { team1, team2, prob1, prob2 } = await response.json();
+            selectedTeam1 = team1;
+            selectedTeam2 = team2;
             displayTeam("redTeam", team1, prob1);
             displayTeam("blueTeam", team2, prob2);
         }
@@ -151,22 +157,35 @@
 
         // Update scores
         async function updateScores(winningTeam) {
-            const team1 = Array.from(document.querySelectorAll('#redTeam p')).map(p => p.textContent);
-            const team2 = Array.from(document.querySelectorAll('#blueTeam p')).map(p => p.textContent);
+            if (selectedTeam1.length === 0 || selectedTeam2.length === 0) {
+                alert("Vui lòng chia đội trước khi cập nhật kết quả!");
+                return;
+            }
 
             const response = await fetch('/update_scores', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ winning_team: winningTeam, team1, team2 })
+                body: JSON.stringify({ 
+                    winning_team: winningTeam, 
+                    team1: selectedTeam1, 
+                    team2: selectedTeam2 
+                })
             });
 
             const result = await response.json();
             alert(result.message);
+
+            // Reset selected teams after updating scores
+            selectedTeam1 = [];
+            selectedTeam2 = [];
+            document.getElementById("redTeam").innerHTML = "";
+            document.getElementById("blueTeam").innerHTML = "";
         }
 
-        fetchPlayers();
+        // Initial fetch of players and creation of checkboxes
+        init();
     </script>
 </body>
 </html>
