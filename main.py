@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LogisticRegression
+from sklearn.multiclass import OneVsRestClassifier
 from sklearn.preprocessing import OneHotEncoder
 from itertools import combinations
 from flask import Flask, request, jsonify, send_from_directory
@@ -48,7 +49,7 @@ X_encoded = encoder.fit_transform(X)
 feature_names = encoder.get_feature_names_out(X.columns)
 
 # Huấn luyện mô hình
-model = LogisticRegression(multi_class='ovr', solver='lbfgs')
+model = OneVsRestClassifier(LogisticRegression(solver='lbfgs'))
 model.fit(X_encoded, y)
 
 def predict_win_probability(team, all_players):
@@ -125,4 +126,4 @@ def update_scores():
     return jsonify({'message': 'Cập nhật điểm thành công!'})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=int(os.environ.get('PORT', 5000)))
