@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thêm Thủ Công và Dự Đoán</title>
+    <title>Điểm số Người chơi</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -11,55 +11,38 @@
             padding: 20px;
             background-color: #f0f0f0;
         }
-        h1, h2 {
+        h1 {
             text-align: center;
             color: #333;
         }
-        .container {
-            display: flex;
-            justify-content: space-around;
-            margin-bottom: 20px;
-        }
-        .team {
-            width: 45%;
+        #scoresTable {
             background-color: white;
             padding: 20px;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 0 auto;
+            max-width: 600px;
         }
-        .checkbox-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        .checkbox-container label {
-            display: flex;
-            align-items: center;
-            margin-right: 10px;
-        }
-        button {
-            display: block;
+        table {
             width: 100%;
-            margin: 10px 0;
-            padding: 10px;
-            font-size: 16px;
-            cursor: pointer;
-            border: none;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
             background-color: #007BFF;
             color: white;
-            border-radius: 5px;
         }
-        button:hover {
-            background-color: #0056b3;
+        tr:hover {
+            background-color: #f5f5f5;
         }
-        #prediction, #updateResult {
-            text-align: center;
-            margin-top: 20px;
-        }
-        #updateResult button {
-            display: inline-block;
-            width: auto;
-            margin: 0 10px;
+        .score-bar {
+            background-color: #4CAF50;
+            height: 20px;
+            border-radius: 10px;
         }
         header {
             background-color: #f0f0f0;
@@ -97,133 +80,41 @@
           </ul>
         </nav>
       </header>
-    <h1>Thêm Thủ Công và Dự Đoán</h1>
-    <div class="container">
-        <div class="team">
-            <h2>Đội Đỏ</h2>
-            <div id="redTeamCheckboxes" class="checkbox-container"></div>
-        </div>
-        <div class="team">
-            <h2>Đội Xanh</h2>
-            <div id="blueTeamCheckboxes" class="checkbox-container"></div>
-        </div>
-    </div>
-    <button onclick="predictWinProbability()">Dự Đoán Tỉ Lệ Thắng</button>
-    <div id="prediction"></div>
-    <div id="updateResult" style="display:none;">
-        <h2>Cập nhật kết quả</h2>
-        <button onclick="updateScores('red')">Đội Đỏ Thắng</button>
-        <button onclick="updateScores('blue')">Đội Xanh Thắng</button>
+    <h1>Điểm số Người chơi</h1>
+    <div id="scoresTable">
+        <table>
+            <thead>
+                <tr>
+                    <th>Người chơi</th>
+                    <th>Điểm số</th>
+                    <th>Biểu đồ</th>
+                </tr>
+            </thead>
+            <tbody id="scoresBody"></tbody>
+        </table>
     </div>
 
     <script>
-        let allPlayers = [];
-
-        async function init() {
-            const response = await fetch('/players');
-            allPlayers = await response.json();
-            createCheckboxes();
-        }
-
-        function createCheckboxes() {
-            const redContainer = document.getElementById('redTeamCheckboxes');
-            const blueContainer = document.getElementById('blueTeamCheckboxes');
-            redContainer.innerHTML = '';
-            blueContainer.innerHTML = '';
-
-            allPlayers.forEach((player, index) => {
-                const redCheckbox = createPlayerCheckbox(player, index, 'red');
-                const blueCheckbox = createPlayerCheckbox(player, index, 'blue');
-                
-                redContainer.appendChild(redCheckbox);
-                blueContainer.appendChild(blueCheckbox);
-            });
-        }
-
-        function createPlayerCheckbox(player, index, team) {
-            const label = document.createElement('label');
-            const checkbox = document.createElement('input');
-            checkbox.type = 'checkbox';
-            checkbox.id = `${team}Player${index}`;
-            checkbox.value = player;
-            checkbox.addEventListener('change', () => handleCheckboxChange(checkbox, team));
-
-            label.appendChild(checkbox);
-            label.appendChild(document.createTextNode(player));
-
-            return label;
-        }
-
-        function handleCheckboxChange(checkbox, team) {
-            const otherTeam = team === 'red' ? 'blue' : 'red';
-            const otherCheckbox = document.getElementById(`${otherTeam}Player${checkbox.id.match(/\d+/)[0]}`);
+        async function loadPlayerScores() {
+            const response = await fetch('/player_scores');
+            const scores = await response.json();
             
-            if (checkbox.checked) {
-                otherCheckbox.disabled = true;
-            } else {
-                otherCheckbox.disabled = false;
+            const tbody = document.getElementById('scoresBody');
+            tbody.innerHTML = '';
+            
+            for (const [player, score] of Object.entries(scores)) {
+                const row = tbody.insertRow();
+                row.insertCell(0).textContent = player;
+                row.insertCell(1).textContent = score.toFixed(3);
+                const barCell = row.insertCell(2);
+                const bar = document.createElement('div');
+                bar.className = 'score-bar';
+                bar.style.width = `${score * 100}%`;
+                barCell.appendChild(bar);
             }
         }
 
-        function getSelectedPlayers(team) {
-            return Array.from(document.querySelectorAll(`#${team}TeamCheckboxes input:checked`))
-                .map(checkbox => checkbox.value);
-        }
-
-        async function predictWinProbability() {
-            const redTeam = getSelectedPlayers('red');
-            const blueTeam = getSelectedPlayers('blue');
-
-            if (redTeam.length !== 5 || blueTeam.length !== 5) {
-                alert("Mỗi đội phải có đúng 5 người chơi!");
-                return;
-            }
-
-            const response = await fetch('/divide_teams', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({ players: [...redTeam, ...blueTeam] })
-            });
-
-            const { prob1, prob2 } = await response.json();
-            
-            document.getElementById('prediction').innerHTML = `
-                <h3>Dự đoán tỉ lệ thắng:</h3>
-                <p>Đội Đỏ: ${(prob1 * 100).toFixed(2)}%</p>
-                <p>Đội Xanh: ${(prob2 * 100).toFixed(2)}%</p>
-            `;
-
-            document.getElementById('updateResult').style.display = 'block';
-        }
-
-        async function updateScores(winningTeam) {
-            const redTeam = getSelectedPlayers('red');
-            const blueTeam = getSelectedPlayers('blue');
-
-            const response = await fetch('/update_scores', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({ 
-                    winning_team: winningTeam, 
-                    team1: redTeam, 
-                    team2: blueTeam 
-                })
-            });
-
-            const result = await response.json();
-            alert(result.message);
-
-            // Reset checkboxes and update display
-            createCheckboxes();
-            document.getElementById('prediction').innerHTML = '';
-            document.getElementById('updateResult').style.display = 'none';
-        }
-
-        init();
+        loadPlayerScores();
     </script>
 </body>
 </html>
