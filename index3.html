@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Điểm số Người chơi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        #scoresTable {
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 0 auto;
+            max-width: 600px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #007BFF;
+            color: white;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+        .score-bar {
+            background-color: #4CAF50;
+            height: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Điểm số Người chơi</h1>
+    <div id="scoresTable">
+        <table>
+            <thead>
+                <tr>
+                    <th>Người chơi</th>
+                    <th>Điểm số</th>
+                    <th>Biểu đồ</th>
+                </tr>
+            </thead>
+            <tbody id="scoresBody"></tbody>
+        </table>
+    </div>
+
+    <script>
+        async function loadPlayerScores() {
+            const response = await fetch('/player_scores');
+            const scores = await response.json();
+            
+            const tbody = document.getElementById('scoresBody');
+            tbody.innerHTML = '';
+            
+            for (const [player, score] of Object.entries(scores)) {
+                const row = tbody.insertRow();
+                row.insertCell(0).textContent = player;
+                row.insertCell(1).textContent = score.toFixed(3);
+                const barCell = row.insertCell(2);
+                const bar = document.createElement('div');
+                bar.className = 'score-bar';
+                bar.style.width = `${score * 100}%`;
+                barCell.appendChild(bar);
+            }
+        }
+
+        loadPlayerScores();
+    </script>
+</body>
+</html>
