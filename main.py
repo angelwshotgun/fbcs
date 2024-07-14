@@ -148,16 +148,19 @@ def get_players():
 
 @app.route('/divide_teams', methods=['POST'])
 def divide_teams():
-    players = request.json['players']
-    team1, team2 = split_teams(players)
-    prob1 = predict_win_probability([(p, 1) for p in team1] + [(p, 2) for p in team2], X.columns)
-    prob2 = 1 - prob1
-    return jsonify({
-        'team1': list(team1),
-        'team2': list(team2),
-        'prob1': prob1,
-        'prob2': prob2
-    })
+    try:
+        players = request.json['players']
+        team1, team2 = split_teams(players)
+        prob1 = predict_win_probability([(p, 1) for p in team1] + [(p, 2) for p in team2], X.columns)
+        prob2 = 1 - prob1
+        return jsonify({
+            'team1': list(team1),
+            'team2': list(team2),
+            'prob1': prob1,
+            'prob2': prob2
+        })
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 @app.route('/player_scores', methods=['GET'])
 def get_player_scores_api():
