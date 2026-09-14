@@ -495,7 +495,7 @@
   },
   "yangg": {
     "id": "yangg",
-    "nickname": "Yangg",
+    "nickname": "Bé Mực Của Chang#Chang",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=yangg",
     "skill": 7.5,
     "champion_pool": 7.0,
@@ -545,25 +545,6 @@
       "LeBlanc",
       "Twisted Fate",
       "Talon"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "zux": {
-    "id": "zux",
-    "nickname": "Zux",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=zux",
-    "skill": 7.5,
-    "champion_pool": 7.0,
-    "flex_lane": 6.5,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "TOP",
-    "favorite_champions": [
-      "Darius",
-      "Mordekaiser",
-      "Sion"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
