@@ -166,25 +166,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "roochan": {
-    "id": "roochan",
-    "nickname": "Roochan",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=roochan",
-    "skill": 7.0,
-    "champion_pool": 6.5,
-    "flex_lane": 6.5,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Rakan",
-      "Leona",
-      "Braum"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "snipertx": {
     "id": "snipertx",
     "nickname": "SniperTX",
@@ -597,6 +578,25 @@
       "Viktor",
       "Azir",
       "Hwei"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "roochan": {
+    "id": "roochan",
+    "nickname": "Roochan",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=roochan",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "SUP",
+    "favorite_champions": [
+      "Rakan",
+      "Leona",
+      "Braum"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
