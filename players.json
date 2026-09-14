@@ -579,5 +579,16 @@
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
+  },
+  "lalune": {
+    "id": "lalune",
+    "nickname": "gomen amanai#lalu4",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=lalune",
+    "skill": 7.0,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [],
+    "primary_role": "MID"
   }
 }
