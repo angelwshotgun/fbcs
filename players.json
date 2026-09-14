@@ -242,25 +242,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "paradozx": {
-    "id": "paradozx",
-    "nickname": "Paradozx",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=paradozx",
-    "skill": 7.5,
-    "champion_pool": 7.0,
-    "flex_lane": 7.0,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Aphelios",
-      "Zeri",
-      "Xayah"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "quyt": {
     "id": "quyt",
     "nickname": "Quyt",
@@ -597,6 +578,25 @@
       "Jax",
       "Fiora",
       "Renekton"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "paradozx": {
+    "id": "paradozx",
+    "nickname": "Paradozx",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=paradozx",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ADC",
+    "favorite_champions": [
+      "Aphelios",
+      "Zeri",
+      "Xayah"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
