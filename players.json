@@ -284,21 +284,6 @@
     ],
     "primary_role": "TOP"
   },
-  "quyenchilong": {
-    "id": "quyenchilong",
-    "nickname": "QuyenChiLong",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=quyenchilong",
-    "skill": 8.0,
-    "champion_pool": 8.0,
-    "flex_lane": 7.5,
-    "consistency": 7.5,
-    "favorite_champions": [
-      "Akali",
-      "Katarina",
-      "Kassadin"
-    ],
-    "primary_role": "MID"
-  },
   "paradozx": {
     "id": "paradozx",
     "nickname": "Paradozx",
