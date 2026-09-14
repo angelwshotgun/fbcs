@@ -424,25 +424,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "snipertx": {
-    "id": "snipertx",
-    "nickname": "SniperTX",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=snipertx",
-    "skill": 8.5,
-    "champion_pool": 7.5,
-    "flex_lane": 6.5,
-    "consistency": 7.5,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Jhin",
-      "Caitlyn",
-      "Varus"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "svsh": {
     "id": "svsh",
     "nickname": "CCC EsHat#2012",
@@ -620,5 +601,24 @@
     "consistency": 1.0,
     "favorite_champions": [],
     "primary_role": "MID"
+  },
+  "snipertx": {
+    "id": "snipertx",
+    "nickname": "SniperTX",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=snipertx",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ADC",
+    "favorite_champions": [
+      "Jhin",
+      "Caitlyn",
+      "Varus"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
   }
 }
