@@ -261,25 +261,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "nyan": {
-    "id": "nyan",
-    "nickname": "Nyan#Tabby",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nyan",
-    "skill": 7.0,
-    "champion_pool": 6.5,
-    "flex_lane": 6.5,
-    "consistency": 6.5,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [
-      "Zoe",
-      "Vex",
-      "Neeko"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "paradozx": {
     "id": "paradozx",
     "nickname": "Paradozx",
@@ -597,6 +578,25 @@
       "Blitzcrank",
       "Alistar",
       "Pyke"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "nyan": {
+    "id": "nyan",
+    "nickname": "Nyan#Tabby",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nyan",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [
+      "Zoe",
+      "Vex",
+      "Neeko"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
