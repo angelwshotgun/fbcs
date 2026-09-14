@@ -333,25 +333,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "yangg": {
-    "id": "yangg",
-    "nickname": "Bé Mực Của Chang#Chang",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=yangg",
-    "skill": 7.5,
-    "champion_pool": 7.0,
-    "flex_lane": 7.5,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "JGL",
-    "favorite_champions": [
-      "Graves",
-      "Kindred",
-      "Elise"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "zekrom": {
     "id": "zekrom",
     "nickname": "Zekrom On#1708",
@@ -597,6 +578,25 @@
       "Kayn",
       "Kha'Zix",
       "Rengar"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "yangg": {
+    "id": "yangg",
+    "nickname": "Bé Mực Của Chang#Chang",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=yangg",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "JGL",
+    "favorite_champions": [
+      "Graves",
+      "Kindred",
+      "Elise"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
