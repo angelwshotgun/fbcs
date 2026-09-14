@@ -530,25 +530,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "tieuchay": {
-    "id": "tieuchay",
-    "nickname": "Boi Phố Hà Tei#2810",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tieuchay",
-    "skill": 7.0,
-    "champion_pool": 6.0,
-    "flex_lane": 6.0,
-    "consistency": 6.0,
-    "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Thresh",
-      "Nautilus",
-      "Lulu"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "alan": {
     "id": "alan",
     "nickname": "Lân Lao Lực#1811",
@@ -620,6 +601,25 @@
       "Xin Zhao",
       "Sejuani",
       "Nocturne"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "tieuchay": {
+    "id": "tieuchay",
+    "nickname": "Boi Phố Hà Tei#2810",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tieuchay",
+    "skill": 7.5,
+    "champion_pool": 6.0,
+    "flex_lane": 6.0,
+    "consistency": 6.0,
+    "stats_ovr": 6.9,
+    "primary_role": "SUP",
+    "favorite_champions": [
+      "Thresh",
+      "Nautilus",
+      "Lulu"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
