@@ -234,21 +234,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "nguoida": {
-    "id": "nguoida",
-    "nickname": "Nibiru",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nguoida",
-    "skill": 1.0,
-    "champion_pool": 1.0,
-    "flex_lane": 1.0,
-    "consistency": 1.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "nyan": {
     "id": "nyan",
     "nickname": "Nyan#Tabby",
@@ -621,6 +606,21 @@
       "Karma",
       "Janna"
     ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "nguoida": {
+    "id": "nguoida",
+    "nickname": "Nibiru",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nguoida",
+    "skill": 3.5,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
