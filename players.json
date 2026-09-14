@@ -464,21 +464,6 @@
     ],
     "primary_role": "MID"
   },
-  "marky": {
-    "id": "marky",
-    "nickname": "Marky",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=marky",
-    "skill": 7.0,
-    "champion_pool": 6.5,
-    "flex_lane": 6.5,
-    "consistency": 7.0,
-    "favorite_champions": [
-      "Vayne",
-      "Kalista",
-      "Ziggs"
-    ],
-    "primary_role": "ADC"
-  },
   "lucius": {
     "id": "lucius",
     "nickname": "Lucius",
