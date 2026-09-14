@@ -379,6 +379,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "snipertx": {
+    "id": "snipertx",
+    "nickname": "SniperTX",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sniperTX",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ALL",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "sniperTX": {
     "id": "sniperTX",
     "nickname": "SniperTX",
@@ -440,10 +455,10 @@
     "id": "tieuchay",
     "nickname": "Boi Phố Hà Tei#2810",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tieuchay",
-    "skill": 8.0,
-    "champion_pool": 8.0,
-    "flex_lane": 2.0,
-    "consistency": 4.0,
+    "skill": 3.0,
+    "champion_pool": 3.0,
+    "flex_lane": 3.0,
+    "consistency": 3.0,
     "stats_ovr": 6.9,
     "primary_role": "SUP",
     "favorite_champions": [
@@ -549,14 +564,5 @@
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
-  },
-  "snipertx": {
-    "id": "snipertx",
-    "nickname": "SniperTX",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sniperTX",
-    "skill": 1.0,
-    "champion_pool": 1.0,
-    "flex_lane": 1.0,
-    "consistency": 1.0
   }
 }
