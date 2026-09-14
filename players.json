@@ -109,25 +109,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "dogtung": {
-    "id": "dogtung",
-    "nickname": "DogTung",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=dogtung",
-    "skill": 7.5,
-    "champion_pool": 7.0,
-    "flex_lane": 7.0,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [
-      "Jayce",
-      "Corki",
-      "Tristana"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "hungpui": {
     "id": "hungpui",
     "nickname": "HungPui",
@@ -597,6 +578,25 @@
       "Aphelios",
       "Zeri",
       "Xayah"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "dogtung": {
+    "id": "dogtung",
+    "nickname": "DogTung",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=dogtung",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [
+      "Jayce",
+      "Corki",
+      "Tristana"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
