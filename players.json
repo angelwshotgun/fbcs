@@ -71,25 +71,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "dithucc": {
-    "id": "dithucc",
-    "nickname": "DiThucc",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=dithucc",
-    "skill": 1.0,
-    "champion_pool": 1.0,
-    "flex_lane": 1.0,
-    "consistency": 1.0,
-    "stats_ovr": 6.9,
-    "primary_role": "JGL",
-    "favorite_champions": [
-      "Xin Zhao",
-      "Sejuani",
-      "Nocturne"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "dogtung": {
     "id": "dogtung",
     "nickname": "DogTung",
@@ -620,6 +601,25 @@
       "Ashe",
       "Miss Fortune",
       "Draven"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "dithucc": {
+    "id": "dithucc",
+    "nickname": "DiThucc",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=dithucc",
+    "skill": 7.5,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.5,
+    "stats_ovr": 6.9,
+    "primary_role": "JGL",
+    "favorite_champions": [
+      "Xin Zhao",
+      "Sejuani",
+      "Nocturne"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
