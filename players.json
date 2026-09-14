@@ -1,23 +1,4 @@
 {
-  "a2ex": {
-    "id": "a2ex",
-    "nickname": "A2Ex#A2Ex",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=a2ex",
-    "skill": 7.5,
-    "champion_pool": 7.0,
-    "flex_lane": 7.0,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "JGL",
-    "favorite_champions": [
-      "Kayn",
-      "Kha'Zix",
-      "Rengar"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "acetamin": {
     "id": "acetamin",
     "nickname": "Acetamin",
@@ -597,6 +578,25 @@
       "Jayce",
       "Corki",
       "Tristana"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "a2ex": {
+    "id": "a2ex",
+    "nickname": "A2Ex#A2Ex",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=a2ex",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "JGL",
+    "favorite_champions": [
+      "Kayn",
+      "Kha'Zix",
+      "Rengar"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
