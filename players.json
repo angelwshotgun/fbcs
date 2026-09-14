@@ -401,6 +401,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "roochan": {
+    "id": "roochan",
+    "nickname": "Roochan",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=roochan",
+    "skill": 6.5,
+    "champion_pool": 6.0,
+    "flex_lane": 4.0,
+    "consistency": 9.0,
+    "stats_ovr": 6.9,
+    "primary_role": "SUP",
+    "favorite_champions": [
+      "Rakan",
+      "Leona",
+      "Braum"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "sasha": {
     "id": "sasha",
     "nickname": "l1berty#vn2",
@@ -477,20 +496,20 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "tieuchay": {
-    "id": "tieuchay",
-    "nickname": "Boi Phố Hà Tei#2810",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tieuchay",
-    "skill": 3.0,
-    "champion_pool": 3.0,
-    "flex_lane": 3.0,
-    "consistency": 3.0,
+  "tnphi": {
+    "id": "tnphi",
+    "nickname": "TNPhi",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tnphi",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
     "stats_ovr": 6.9,
-    "primary_role": "SUP",
+    "primary_role": "ADC",
     "favorite_champions": [
-      "Thresh",
-      "Nautilus",
-      "Lulu"
+      "Samira",
+      "Kog'Maw",
+      "Twitch"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
@@ -587,39 +606,20 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "tnphi": {
-    "id": "tnphi",
-    "nickname": "TNPhi",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tnphi",
-    "skill": 1.0,
-    "champion_pool": 1.0,
-    "flex_lane": 1.0,
-    "consistency": 1.0,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Samira",
-      "Kog'Maw",
-      "Twitch"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "roochan": {
-    "id": "roochan",
-    "nickname": "Roochan",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=roochan",
-    "skill": 6.5,
+  "tieuchay": {
+    "id": "tieuchay",
+    "nickname": "Boi Phố Hà Tei#2810",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tieuchay",
+    "skill": 7.0,
     "champion_pool": 6.0,
-    "flex_lane": 4.0,
-    "consistency": 9.0,
+    "flex_lane": 6.0,
+    "consistency": 6.0,
     "stats_ovr": 6.9,
     "primary_role": "SUP",
     "favorite_champions": [
-      "Rakan",
-      "Leona",
-      "Braum"
+      "Thresh",
+      "Nautilus",
+      "Lulu"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
