@@ -185,25 +185,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "kie": {
-    "id": "kie",
-    "nickname": "Kie#non",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=kie",
-    "skill": 7.5,
-    "champion_pool": 7.0,
-    "flex_lane": 6.5,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "TOP",
-    "favorite_champions": [
-      "Jax",
-      "Fiora",
-      "Renekton"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "mekko": {
     "id": "mekko",
     "nickname": "Mạnh Buối Bù #0312",
@@ -597,6 +578,25 @@
       "Aatrox",
       "Malphite",
       "Gnar"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "kie": {
+    "id": "kie",
+    "nickname": "Kie#non",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=kie",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Jax",
+      "Fiora",
+      "Renekton"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
