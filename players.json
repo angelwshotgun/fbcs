@@ -109,25 +109,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "keymis": {
-    "id": "keymis",
-    "nickname": "Keymis",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=keymis",
-    "skill": 7.5,
-    "champion_pool": 7.0,
-    "flex_lane": 7.0,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [
-      "Viktor",
-      "Azir",
-      "Hwei"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "myhanh": {
     "id": "myhanh",
     "nickname": "HạnhĐẹpZai#H2k8",
@@ -597,6 +578,25 @@
       "Amumu",
       "Rammus",
       "Zac"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "keymis": {
+    "id": "keymis",
+    "nickname": "Keymis",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=keymis",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [
+      "Viktor",
+      "Azir",
+      "Hwei"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
