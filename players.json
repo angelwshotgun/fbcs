@@ -568,25 +568,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "zinki": {
-    "id": "zinki",
-    "nickname": "zxc123221#2518",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=zinki",
-    "skill": 3.0,
-    "champion_pool": 3.0,
-    "flex_lane": 3.0,
-    "consistency": 3.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [
-      "LeBlanc",
-      "Twisted Fate",
-      "Talon"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "tieuchay": {
     "id": "tieuchay",
     "nickname": "Boi Phố Hà Tei#2810",
@@ -620,6 +601,25 @@
       "Gwen",
       "K'Sante",
       "Gangplank"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "zinki": {
+    "id": "zinki",
+    "nickname": "zxc123221#2518",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=zinki",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [
+      "LeBlanc",
+      "Twisted Fate",
+      "Talon"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
