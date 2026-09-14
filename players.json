@@ -404,21 +404,6 @@
     ],
     "primary_role": "SUP"
   },
-  "naughty": {
-    "id": "naughty",
-    "nickname": "Naughty",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=naughty",
-    "skill": 7.5,
-    "champion_pool": 7.0,
-    "flex_lane": 7.0,
-    "consistency": 7.0,
-    "favorite_champions": [
-      "Poppy",
-      "Volibear",
-      "Trundle"
-    ],
-    "primary_role": "JGL"
-  },
   "alan": {
     "id": "alan",
     "nickname": "Alan",
