@@ -442,8 +442,8 @@
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tieuchay",
     "skill": 8.0,
     "champion_pool": 8.0,
-    "flex_lane": 8.5,
-    "consistency": 7.5,
+    "flex_lane": 2.0,
+    "consistency": 4.0,
     "stats_ovr": 6.9,
     "primary_role": "SUP",
     "favorite_champions": [
