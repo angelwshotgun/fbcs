@@ -1,0 +1,527 @@
+{
+  "thongo": {
+    "id": "thongo",
+    "nickname": "ThonGo",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=thongo",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Aatrox",
+      "Malphite",
+      "Gnar"
+    ],
+    "primary_role": "TOP"
+  },
+  "wanlee": {
+    "id": "wanlee",
+    "nickname": "Wanlee",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=wanlee",
+    "skill": 8.5,
+    "champion_pool": 8.0,
+    "flex_lane": 7.5,
+    "consistency": 8.0,
+    "favorite_champions": [
+      "Lee Sin",
+      "Jarvan IV",
+      "Viego"
+    ],
+    "primary_role": "JGL"
+  },
+  "zekrom": {
+    "id": "zekrom",
+    "nickname": "Zekrom",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=zekrom",
+    "skill": 8.0,
+    "champion_pool": 7.5,
+    "flex_lane": 7.0,
+    "consistency": 7.5,
+    "favorite_champions": [
+      "Ahri",
+      "Syndra",
+      "Orianna"
+    ],
+    "primary_role": "MID"
+  },
+  "cuoi": {
+    "id": "cuoi",
+    "nickname": "Cuoi",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=cuoi",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.0,
+    "consistency": 6.5,
+    "favorite_champions": [
+      "Jinx",
+      "Kai'Sa",
+      "Ezreal"
+    ],
+    "primary_role": "ADC"
+  },
+  "tieuchay": {
+    "id": "tieuchay",
+    "nickname": "TieuChay",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tieuchay",
+    "skill": 8.0,
+    "champion_pool": 8.0,
+    "flex_lane": 8.5,
+    "consistency": 7.5,
+    "favorite_champions": [
+      "Thresh",
+      "Nautilus",
+      "Lulu"
+    ],
+    "primary_role": "SUP"
+  },
+  "kie": {
+    "id": "kie",
+    "nickname": "Kie",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=kie",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Jax",
+      "Fiora",
+      "Renekton"
+    ],
+    "primary_role": "TOP"
+  },
+  "dithucc": {
+    "id": "dithucc",
+    "nickname": "DiThucc",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=dithucc",
+    "skill": 8.0,
+    "champion_pool": 7.5,
+    "flex_lane": 7.0,
+    "consistency": 8.0,
+    "favorite_champions": [
+      "Xin Zhao",
+      "Sejuani",
+      "Nocturne"
+    ],
+    "primary_role": "JGL"
+  },
+  "candy": {
+    "id": "candy",
+    "nickname": "Candy",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=candy",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.0,
+    "consistency": 6.5,
+    "favorite_champions": [
+      "Lux",
+      "Morgana",
+      "Seraphine"
+    ],
+    "primary_role": "SUP"
+  },
+  "mekko": {
+    "id": "mekko",
+    "nickname": "Mekko",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=mekko",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Zed",
+      "Yasuo",
+      "Yone"
+    ],
+    "primary_role": "MID"
+  },
+  "sniperTX": {
+    "id": "sniperTX",
+    "nickname": "SniperTX",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sniperTX",
+    "skill": 8.0,
+    "champion_pool": 7.5,
+    "flex_lane": 6.5,
+    "consistency": 7.5,
+    "favorite_champions": [
+      "Jhin",
+      "Caitlyn",
+      "Varus"
+    ],
+    "primary_role": "ADC"
+  },
+  "quyt": {
+    "id": "quyt",
+    "nickname": "Quyt",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=quyt",
+    "skill": 8.5,
+    "champion_pool": 8.5,
+    "flex_lane": 8.0,
+    "consistency": 8.0,
+    "favorite_champions": [
+      "Camille",
+      "Jayce",
+      "Shen"
+    ],
+    "primary_role": "TOP"
+  },
+  "keymis": {
+    "id": "keymis",
+    "nickname": "Keymis",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=keymis",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Viktor",
+      "Azir",
+      "Hwei"
+    ],
+    "primary_role": "MID"
+  },
+  "bbom": {
+    "id": "bbom",
+    "nickname": "Bbom",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=bbom",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Lucian",
+      "Tristana",
+      "Sivir"
+    ],
+    "primary_role": "ADC"
+  },
+  "myhanh": {
+    "id": "myhanh",
+    "nickname": "MyHanh",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=myhanh",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Nami",
+      "Karma",
+      "Janna"
+    ],
+    "primary_role": "SUP"
+  },
+  "yangg": {
+    "id": "yangg",
+    "nickname": "Yangg",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=yangg",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Graves",
+      "Kindred",
+      "Elise"
+    ],
+    "primary_role": "JGL"
+  },
+  "nyan": {
+    "id": "nyan",
+    "nickname": "Nyan",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nyan",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 6.5,
+    "favorite_champions": [
+      "Zoe",
+      "Vex",
+      "Neeko"
+    ],
+    "primary_role": "MID"
+  },
+  "acetamin": {
+    "id": "acetamin",
+    "nickname": "Acetamin",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=acetamin",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.5,
+    "favorite_champions": [
+      "Ashe",
+      "Miss Fortune",
+      "Draven"
+    ],
+    "primary_role": "ADC"
+  },
+  "roochan": {
+    "id": "roochan",
+    "nickname": "Roochan",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=roochan",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Rakan",
+      "Leona",
+      "Braum"
+    ],
+    "primary_role": "SUP"
+  },
+  "nas": {
+    "id": "nas",
+    "nickname": "Nas",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nas",
+    "skill": 8.0,
+    "champion_pool": 7.5,
+    "flex_lane": 7.0,
+    "consistency": 7.5,
+    "favorite_champions": [
+      "Hecarim",
+      "Vi",
+      "Wukong"
+    ],
+    "primary_role": "JGL"
+  },
+  "svsh": {
+    "id": "svsh",
+    "nickname": "SVSH",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=svsh",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Kennen",
+      "Rumble",
+      "Ornn"
+    ],
+    "primary_role": "TOP"
+  },
+  "quyenchilong": {
+    "id": "quyenchilong",
+    "nickname": "QuyenChiLong",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=quyenchilong",
+    "skill": 8.0,
+    "champion_pool": 8.0,
+    "flex_lane": 7.5,
+    "consistency": 7.5,
+    "favorite_champions": [
+      "Akali",
+      "Katarina",
+      "Kassadin"
+    ],
+    "primary_role": "MID"
+  },
+  "paradozx": {
+    "id": "paradozx",
+    "nickname": "Paradozx",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=paradozx",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Aphelios",
+      "Zeri",
+      "Xayah"
+    ],
+    "primary_role": "ADC"
+  },
+  "duygudboy": {
+    "id": "duygudboy",
+    "nickname": "DuyGudBoy",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=duygudboy",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Blitzcrank",
+      "Alistar",
+      "Pyke"
+    ],
+    "primary_role": "SUP"
+  },
+  "a2ex": {
+    "id": "a2ex",
+    "nickname": "A2ex",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=a2ex",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Kayn",
+      "Kha'Zix",
+      "Rengar"
+    ],
+    "primary_role": "JGL"
+  },
+  "sasha": {
+    "id": "sasha",
+    "nickname": "Sasha",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sasha",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Irelia",
+      "Riven",
+      "Sett"
+    ],
+    "primary_role": "TOP"
+  },
+  "zinki": {
+    "id": "zinki",
+    "nickname": "Zinki",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=zinki",
+    "skill": 7.5,
+    "champion_pool": 7.5,
+    "flex_lane": 7.0,
+    "consistency": 7.5,
+    "favorite_champions": [
+      "LeBlanc",
+      "Twisted Fate",
+      "Talon"
+    ],
+    "primary_role": "MID"
+  },
+  "tnphi": {
+    "id": "tnphi",
+    "nickname": "TNPhi",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tnphi",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Samira",
+      "Kog'Maw",
+      "Twitch"
+    ],
+    "primary_role": "ADC"
+  },
+  "junimo": {
+    "id": "junimo",
+    "nickname": "Junimo",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=junimo",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Sona",
+      "Soraka",
+      "Yuumi"
+    ],
+    "primary_role": "SUP"
+  },
+  "naughty": {
+    "id": "naughty",
+    "nickname": "Naughty",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=naughty",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Poppy",
+      "Volibear",
+      "Trundle"
+    ],
+    "primary_role": "JGL"
+  },
+  "alan": {
+    "id": "alan",
+    "nickname": "Alan",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=alan",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Gwen",
+      "K'Sante",
+      "Gangplank"
+    ],
+    "primary_role": "TOP"
+  },
+  "dogtung": {
+    "id": "dogtung",
+    "nickname": "DogTung",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=dogtung",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Jayce",
+      "Corki",
+      "Tristana"
+    ],
+    "primary_role": "MID"
+  },
+  "marky": {
+    "id": "marky",
+    "nickname": "Marky",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=marky",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Vayne",
+      "Kalista",
+      "Ziggs"
+    ],
+    "primary_role": "ADC"
+  },
+  "lucius": {
+    "id": "lucius",
+    "nickname": "Lucius",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=lucius",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Bard",
+      "Senna",
+      "Rell"
+    ],
+    "primary_role": "SUP"
+  },
+  "hungpui": {
+    "id": "hungpui",
+    "nickname": "HungPui",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=hungpui",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Amumu",
+      "Rammus",
+      "Zac"
+    ],
+    "primary_role": "JGL"
+  },
+  "bucky": {
+    "id": "bucky",
+    "nickname": "Bucky",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=bucky",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Urgot",
+      "Chogath",
+      "Nasus"
+    ],
+    "primary_role": "TOP"
+  }
+}
