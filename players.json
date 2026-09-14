@@ -18,6 +18,63 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "acetamin": {
+    "id": "acetamin",
+    "nickname": "Acetamin",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=acetamin",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ADC",
+    "favorite_champions": [
+      "Ashe",
+      "Miss Fortune",
+      "Draven"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "alan": {
+    "id": "alan",
+    "nickname": "Lân Lao Lực#1811",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=alan",
+    "skill": 6.0,
+    "champion_pool": 6.0,
+    "flex_lane": 4.0,
+    "consistency": 6.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Gwen",
+      "K'Sante",
+      "Gangplank"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "bbom": {
+    "id": "bbom",
+    "nickname": "Picasso II#vn2",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=bbom",
+    "skill": 5.5,
+    "champion_pool": 4.0,
+    "flex_lane": 5.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ADC",
+    "favorite_champions": [
+      "Lucian",
+      "Tristana",
+      "Sivir"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "candy": {
     "id": "candy",
     "nickname": "Bé Kẹo#God",
@@ -52,20 +109,20 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "dogtung": {
-    "id": "dogtung",
-    "nickname": "DogTung",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=dogtung",
-    "skill": 9.0,
-    "champion_pool": 5.0,
-    "flex_lane": 6.0,
-    "consistency": 2.0,
+  "dithucc": {
+    "id": "dithucc",
+    "nickname": "DiThucc",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=dithucc",
+    "skill": 7.5,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.5,
     "stats_ovr": 6.9,
-    "primary_role": "MID",
+    "primary_role": "JGL",
     "favorite_champions": [
-      "Jayce",
-      "Corki",
-      "Tristana"
+      "Xin Zhao",
+      "Sejuani",
+      "Nocturne"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
@@ -196,6 +253,44 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "mekko": {
+    "id": "mekko",
+    "nickname": "Mạnh Buối Bù #0312",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=mekko",
+    "skill": 7.5,
+    "champion_pool": 5.0,
+    "flex_lane": 6.5,
+    "consistency": 6.5,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [
+      "Zed",
+      "Yasuo",
+      "Yone"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "myhanh": {
+    "id": "myhanh",
+    "nickname": "HạnhĐẹpZai#H2k8",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=myhanh",
+    "skill": 5.0,
+    "champion_pool": 4.0,
+    "flex_lane": 4.0,
+    "consistency": 4.0,
+    "stats_ovr": 6.9,
+    "primary_role": "SUP",
+    "favorite_champions": [
+      "Nami",
+      "Karma",
+      "Janna"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "nas": {
     "id": "nas",
     "nickname": "Nas",
@@ -210,6 +305,40 @@
       "Hecarim",
       "Vi",
       "Wukong"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "nguoida": {
+    "id": "nguoida",
+    "nickname": "Nibiru",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nguoida",
+    "skill": 3.5,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "nyan": {
+    "id": "nyan",
+    "nickname": "Nyan#Tabby",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nyan",
+    "skill": 5.5,
+    "champion_pool": 5.5,
+    "flex_lane": 2.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [
+      "Zoe",
+      "Vex",
+      "Neeko"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
@@ -291,6 +420,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "snipertx": {
+    "id": "snipertx",
+    "nickname": "SniperTX",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=snipertx",
+    "skill": 6.0,
+    "champion_pool": 3.0,
+    "flex_lane": 2.0,
+    "consistency": 5.5,
+    "stats_ovr": 6.9,
+    "primary_role": "ADC",
+    "favorite_champions": [
+      "Jhin",
+      "Caitlyn",
+      "Varus"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "svsh": {
     "id": "svsh",
     "nickname": "CCC EsHat#2012",
@@ -324,6 +472,25 @@
       "Aatrox",
       "Malphite",
       "Gnar"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "tieuchay": {
+    "id": "tieuchay",
+    "nickname": "Boi Phố Hà Tei#2810",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tieuchay",
+    "skill": 7.5,
+    "champion_pool": 6.0,
+    "flex_lane": 6.0,
+    "consistency": 6.0,
+    "stats_ovr": 6.9,
+    "primary_role": "SUP",
+    "favorite_champions": [
+      "Thresh",
+      "Nautilus",
+      "Lulu"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
@@ -367,6 +534,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "watson": {
+    "id": "watson",
+    "nickname": "NST#5833",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=watson",
+    "skill": 3.5,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "yangg": {
     "id": "yangg",
     "nickname": "Bé Mực Của Chang#Chang",
@@ -405,25 +587,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "alan": {
-    "id": "alan",
-    "nickname": "Lân Lao Lực#1811",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=alan",
-    "skill": 6.0,
-    "champion_pool": 6.0,
-    "flex_lane": 4.0,
-    "consistency": 6.0,
-    "stats_ovr": 6.9,
-    "primary_role": "TOP",
-    "favorite_champions": [
-      "Gwen",
-      "K'Sante",
-      "Gangplank"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "zinki": {
     "id": "zinki",
     "nickname": "zxc123221#2518",
@@ -443,183 +606,20 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "acetamin": {
-    "id": "acetamin",
-    "nickname": "Acetamin",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=acetamin",
-    "skill": 1.0,
-    "champion_pool": 1.0,
-    "flex_lane": 1.0,
-    "consistency": 1.0,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Ashe",
-      "Miss Fortune",
-      "Draven"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "dithucc": {
-    "id": "dithucc",
-    "nickname": "DiThucc",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=dithucc",
-    "skill": 7.5,
-    "champion_pool": 6.5,
-    "flex_lane": 6.5,
-    "consistency": 7.5,
-    "stats_ovr": 6.9,
-    "primary_role": "JGL",
-    "favorite_champions": [
-      "Xin Zhao",
-      "Sejuani",
-      "Nocturne"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "tieuchay": {
-    "id": "tieuchay",
-    "nickname": "Boi Phố Hà Tei#2810",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tieuchay",
-    "skill": 7.5,
-    "champion_pool": 6.0,
-    "flex_lane": 6.0,
-    "consistency": 6.0,
-    "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Thresh",
-      "Nautilus",
-      "Lulu"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "mekko": {
-    "id": "mekko",
-    "nickname": "Mạnh Buối Bù #0312",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=mekko",
-    "skill": 7.5,
+  "dogtung": {
+    "id": "dogtung",
+    "nickname": "DogTung",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=dogtung",
+    "skill": 8.5,
     "champion_pool": 5.0,
-    "flex_lane": 6.5,
-    "consistency": 6.5,
+    "flex_lane": 6.0,
+    "consistency": 2.0,
     "stats_ovr": 6.9,
     "primary_role": "MID",
     "favorite_champions": [
-      "Zed",
-      "Yasuo",
-      "Yone"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "myhanh": {
-    "id": "myhanh",
-    "nickname": "HạnhĐẹpZai#H2k8",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=myhanh",
-    "skill": 5.0,
-    "champion_pool": 4.0,
-    "flex_lane": 4.0,
-    "consistency": 4.0,
-    "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Nami",
-      "Karma",
-      "Janna"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "nguoida": {
-    "id": "nguoida",
-    "nickname": "Nibiru",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nguoida",
-    "skill": 3.5,
-    "champion_pool": 1.0,
-    "flex_lane": 1.0,
-    "consistency": 1.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "watson": {
-    "id": "watson",
-    "nickname": "NST#5833",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=watson",
-    "skill": 3.5,
-    "champion_pool": 1.0,
-    "flex_lane": 1.0,
-    "consistency": 1.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "bbom": {
-    "id": "bbom",
-    "nickname": "Picasso II#vn2",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=bbom",
-    "skill": 5.5,
-    "champion_pool": 4.0,
-    "flex_lane": 5.0,
-    "consistency": 1.0,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Lucian",
-      "Tristana",
-      "Sivir"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "snipertx": {
-    "id": "snipertx",
-    "nickname": "SniperTX",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=snipertx",
-    "skill": 6.0,
-    "champion_pool": 3.0,
-    "flex_lane": 2.0,
-    "consistency": 5.5,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Jhin",
-      "Caitlyn",
-      "Varus"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "nyan": {
-    "id": "nyan",
-    "nickname": "Nyan#Tabby",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nyan",
-    "skill": 5.5,
-    "champion_pool": 5.5,
-    "flex_lane": 2.0,
-    "consistency": 5.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [
-      "Zoe",
-      "Vex",
-      "Neeko"
+      "Jayce",
+      "Corki",
+      "Tristana"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
