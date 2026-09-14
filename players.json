@@ -356,25 +356,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "sasha": {
-    "id": "sasha",
-    "nickname": "l1berty#vn2",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sasha",
-    "skill": 7.5,
-    "champion_pool": 7.0,
-    "flex_lane": 7.0,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "TOP",
-    "favorite_champions": [
-      "Irelia",
-      "Riven",
-      "Sett"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "snipertx": {
     "id": "snipertx",
     "nickname": "SniperTX",
@@ -597,6 +578,25 @@
       "Lucian",
       "Tristana",
       "Sivir"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "sasha": {
+    "id": "sasha",
+    "nickname": "l1berty#vn2",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sasha",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Irelia",
+      "Riven",
+      "Sett"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
