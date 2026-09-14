@@ -56,25 +56,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "bbom": {
-    "id": "bbom",
-    "nickname": "Bbom",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=bbom",
-    "skill": 7.5,
-    "champion_pool": 7.0,
-    "flex_lane": 6.5,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Lucian",
-      "Tristana",
-      "Sivir"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "candy": {
     "id": "candy",
     "nickname": "Bé Kẹo#God",
@@ -90,6 +71,21 @@
       "Morgana",
       "Seraphine"
     ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "cumber": {
+    "id": "cumber",
+    "nickname": "Oguri Cappu#123",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=cumber",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
@@ -565,15 +561,23 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "cumber": {
-    "id": "cumber",
-    "nickname": "Oguri Cappu#123",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=cumber",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
-    "favorite_champions": [],
-    "primary_role": "MID"
+  "bbom": {
+    "id": "bbom",
+    "nickname": "Picasso II#vn2",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=bbom",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ADC",
+    "favorite_champions": [
+      "Lucian",
+      "Tristana",
+      "Sivir"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
   }
 }
