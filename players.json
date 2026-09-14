@@ -44,21 +44,6 @@
     ],
     "primary_role": "MID"
   },
-  "cuoi": {
-    "id": "cuoi",
-    "nickname": "Cuoi",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=cuoi",
-    "skill": 7.0,
-    "champion_pool": 6.5,
-    "flex_lane": 6.0,
-    "consistency": 6.5,
-    "favorite_champions": [
-      "Jinx",
-      "Kai'Sa",
-      "Ezreal"
-    ],
-    "primary_role": "ADC"
-  },
   "tieuchay": {
     "id": "tieuchay",
     "nickname": "TieuChay",
