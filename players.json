@@ -549,5 +549,14 @@
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
+  },
+  "snipertx": {
+    "id": "snipertx",
+    "nickname": "SniperTX",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sniperTX",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0
   }
 }
