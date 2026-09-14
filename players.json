@@ -210,7 +210,7 @@
   },
   "kie": {
     "id": "kie",
-    "nickname": "Kie",
+    "nickname": "Kie#non",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=kie",
     "skill": 7.5,
     "champion_pool": 7.0,
