@@ -463,20 +463,5 @@
       "Zac"
     ],
     "primary_role": "JGL"
-  },
-  "bucky": {
-    "id": "bucky",
-    "nickname": "Bucky",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=bucky",
-    "skill": 7.5,
-    "champion_pool": 7.0,
-    "flex_lane": 7.0,
-    "consistency": 7.0,
-    "favorite_champions": [
-      "Urgot",
-      "Chogath",
-      "Nasus"
-    ],
-    "primary_role": "TOP"
   }
 }
