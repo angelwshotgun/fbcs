@@ -517,9 +517,9 @@
     "nickname": "Zekrom On#1708",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=zekrom",
     "skill": 8.0,
-    "champion_pool": 7.5,
-    "flex_lane": 7.0,
-    "consistency": 7.5,
+    "champion_pool": 5.0,
+    "flex_lane": 2.0,
+    "consistency": 6.0,
     "stats_ovr": 6.9,
     "primary_role": "MID",
     "favorite_champions": [
