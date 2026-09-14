@@ -94,21 +94,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "cumber": {
-    "id": "cumber",
-    "nickname": "Oguri Cappu#123",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=cumber",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "dithucc": {
     "id": "dithucc",
     "nickname": "DiThucc",
@@ -329,6 +314,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "nguoida": {
+    "id": "nguoida",
+    "nickname": "Nibiru",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nguoida",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "nyan": {
     "id": "nyan",
     "nickname": "Nyan#Tabby",
@@ -419,6 +419,25 @@
       "Irelia",
       "Riven",
       "Sett"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "snipertx": {
+    "id": "snipertx",
+    "nickname": "SniperTX",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=snipertx",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ADC",
+    "favorite_champions": [
+      "Jhin",
+      "Caitlyn",
+      "Varus"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
@@ -591,32 +610,17 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "nguoida": {
-    "id": "nguoida",
-    "nickname": "Nibiru",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nguoida",
-    "skill": 1.0,
-    "champion_pool": 1.0,
-    "flex_lane": 1.0,
-    "consistency": 1.0,
-    "favorite_champions": [],
-    "primary_role": "MID"
-  },
-  "snipertx": {
-    "id": "snipertx",
-    "nickname": "SniperTX",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=snipertx",
-    "skill": 1.0,
-    "champion_pool": 1.0,
-    "flex_lane": 1.0,
-    "consistency": 1.0,
+  "cumber": {
+    "id": "cumber",
+    "nickname": "Oguri Cappu#123",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=cumber",
+    "skill": 5.5,
+    "champion_pool": 4.0,
+    "flex_lane": 2.5,
+    "consistency": 4.0,
     "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Jhin",
-      "Caitlyn",
-      "Varus"
-    ],
+    "primary_role": "MID",
+    "favorite_champions": [],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
