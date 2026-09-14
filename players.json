@@ -356,25 +356,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "thongo": {
-    "id": "thongo",
-    "nickname": "ThonGo",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=thongo",
-    "skill": 7.5,
-    "champion_pool": 7.0,
-    "flex_lane": 6.5,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "TOP",
-    "favorite_champions": [
-      "Aatrox",
-      "Malphite",
-      "Gnar"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "tieuchay": {
     "id": "tieuchay",
     "nickname": "Boi Phố Hà Tei#2810",
@@ -601,5 +582,24 @@
     "consistency": 5.0,
     "favorite_champions": [],
     "primary_role": "MID"
+  },
+  "thongo": {
+    "id": "thongo",
+    "nickname": "ThonGo",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=thongo",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Aatrox",
+      "Malphite",
+      "Gnar"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
   }
 }
