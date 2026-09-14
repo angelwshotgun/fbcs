@@ -227,21 +227,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "lalune": {
-    "id": "lalune",
-    "nickname": "gomen amanai#lalu4",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=lalune",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "mekko": {
     "id": "mekko",
     "nickname": "Mạnh Buối Bù #0312",
@@ -618,6 +603,21 @@
     "champion_pool": 3.0,
     "flex_lane": 1.5,
     "consistency": 7.5,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "lalune": {
+    "id": "lalune",
+    "nickname": "gomen amanai#lalu4",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=lalune",
+    "skill": 8.0,
+    "champion_pool": 9.0,
+    "flex_lane": 9.0,
+    "consistency": 9.0,
     "stats_ovr": 6.9,
     "primary_role": "MID",
     "favorite_champions": [],
