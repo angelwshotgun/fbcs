@@ -493,6 +493,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "watson": {
+    "id": "watson",
+    "nickname": "NST#5833",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=watson",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "yangg": {
     "id": "yangg",
     "nickname": "Bé Mực Của Chang#Chang",
@@ -550,10 +565,10 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "watson": {
-    "id": "watson",
-    "nickname": "NST#5833",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=watson",
+  "cumber": {
+    "id": "cumber",
+    "nickname": "Oguri Cappu#123",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=cumber",
     "skill": 5.0,
     "champion_pool": 5.0,
     "flex_lane": 5.0,
