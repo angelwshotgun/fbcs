@@ -147,25 +147,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "quyt": {
-    "id": "quyt",
-    "nickname": "Quyt",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=quyt",
-    "skill": 6.0,
-    "champion_pool": 8.5,
-    "flex_lane": 8.0,
-    "consistency": 8.0,
-    "stats_ovr": 6.9,
-    "primary_role": "TOP",
-    "favorite_champions": [
-      "Camille",
-      "Jayce",
-      "Shen"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "snipertx": {
     "id": "snipertx",
     "nickname": "SniperTX",
@@ -597,6 +578,25 @@
       "Rakan",
       "Leona",
       "Braum"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "quyt": {
+    "id": "quyt",
+    "nickname": "Quyt",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=quyt",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Camille",
+      "Jayce",
+      "Shen"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
