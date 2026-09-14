@@ -590,5 +590,16 @@
     "consistency": 7.0,
     "favorite_champions": [],
     "primary_role": "MID"
+  },
+  "eklove": {
+    "id": "eklove",
+    "nickname": "LuvMis4n",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=eklove",
+    "skill": 7.0,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [],
+    "primary_role": "MID"
   }
 }
