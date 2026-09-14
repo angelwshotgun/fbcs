@@ -394,25 +394,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "tnphi": {
-    "id": "tnphi",
-    "nickname": "TNPhi",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tnphi",
-    "skill": 7.0,
-    "champion_pool": 6.5,
-    "flex_lane": 6.5,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Samira",
-      "Kog'Maw",
-      "Twitch"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "wanlee": {
     "id": "wanlee",
     "nickname": "Jhin#199x",
@@ -597,6 +578,25 @@
       "Zoe",
       "Vex",
       "Neeko"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "tnphi": {
+    "id": "tnphi",
+    "nickname": "TNPhi",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tnphi",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ADC",
+    "favorite_champions": [
+      "Samira",
+      "Kog'Maw",
+      "Twitch"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
