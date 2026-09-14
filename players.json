@@ -215,25 +215,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "mekko": {
-    "id": "mekko",
-    "nickname": "Mạnh Buối Bù #0312",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=mekko",
-    "skill": 7.0,
-    "champion_pool": 5.0,
-    "flex_lane": 6.5,
-    "consistency": 6.5,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [
-      "Zed",
-      "Yasuo",
-      "Yone"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "myhanh": {
     "id": "myhanh",
     "nickname": "HạnhĐẹpZai#H2k8",
@@ -620,6 +601,25 @@
       "Thresh",
       "Nautilus",
       "Lulu"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "mekko": {
+    "id": "mekko",
+    "nickname": "Mạnh Buối Bù #0312",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=mekko",
+    "skill": 7.5,
+    "champion_pool": 5.0,
+    "flex_lane": 6.5,
+    "consistency": 6.5,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [
+      "Zed",
+      "Yasuo",
+      "Yone"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
