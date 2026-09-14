@@ -132,25 +132,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "hungpui": {
-    "id": "hungpui",
-    "nickname": "HungPui",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=hungpui",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
-    "stats_ovr": 6.9,
-    "primary_role": "JGL",
-    "favorite_champions": [
-      "Amumu",
-      "Rammus",
-      "Zac"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "junimo": {
     "id": "junimo",
     "nickname": "Junimo",
@@ -620,6 +601,25 @@
       "Jayce",
       "Corki",
       "Tristana"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "hungpui": {
+    "id": "hungpui",
+    "nickname": "HungPui",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=hungpui",
+    "skill": 6.5,
+    "champion_pool": 6.0,
+    "flex_lane": 6.5,
+    "consistency": 5.5,
+    "stats_ovr": 6.9,
+    "primary_role": "JGL",
+    "favorite_champions": [
+      "Amumu",
+      "Rammus",
+      "Zac"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
