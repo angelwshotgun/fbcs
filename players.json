@@ -44,6 +44,21 @@
     ],
     "primary_role": "MID"
   },
+  "cuoi": {
+    "id": "cuoi",
+    "nickname": "Cuoi",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=cuoi",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.0,
+    "consistency": 6.5,
+    "favorite_champions": [
+      "Jinx",
+      "Kai'Sa",
+      "Ezreal"
+    ],
+    "primary_role": "ADC"
+  },
   "tieuchay": {
     "id": "tieuchay",
     "nickname": "TieuChay",
@@ -209,6 +224,21 @@
     ],
     "primary_role": "JGL"
   },
+  "zux": {
+    "id": "zux",
+    "nickname": "Zux",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=zux",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Darius",
+      "Mordekaiser",
+      "Sion"
+    ],
+    "primary_role": "TOP"
+  },
   "nyan": {
     "id": "nyan",
     "nickname": "Nyan",
@@ -283,6 +313,21 @@
       "Ornn"
     ],
     "primary_role": "TOP"
+  },
+  "quyenchilong": {
+    "id": "quyenchilong",
+    "nickname": "QuyenChiLong",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=quyenchilong",
+    "skill": 8.0,
+    "champion_pool": 8.0,
+    "flex_lane": 7.5,
+    "consistency": 7.5,
+    "favorite_champions": [
+      "Akali",
+      "Katarina",
+      "Kassadin"
+    ],
+    "primary_role": "MID"
   },
   "paradozx": {
     "id": "paradozx",
@@ -389,6 +434,21 @@
     ],
     "primary_role": "SUP"
   },
+  "naughty": {
+    "id": "naughty",
+    "nickname": "Naughty",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=naughty",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Poppy",
+      "Volibear",
+      "Trundle"
+    ],
+    "primary_role": "JGL"
+  },
   "alan": {
     "id": "alan",
     "nickname": "Alan",
@@ -419,6 +479,36 @@
     ],
     "primary_role": "MID"
   },
+  "marky": {
+    "id": "marky",
+    "nickname": "Marky",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=marky",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Vayne",
+      "Kalista",
+      "Ziggs"
+    ],
+    "primary_role": "ADC"
+  },
+  "lucius": {
+    "id": "lucius",
+    "nickname": "Lucius",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=lucius",
+    "skill": 7.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Bard",
+      "Senna",
+      "Rell"
+    ],
+    "primary_role": "SUP"
+  },
   "hungpui": {
     "id": "hungpui",
     "nickname": "HungPui",
@@ -433,5 +523,20 @@
       "Zac"
     ],
     "primary_role": "JGL"
+  },
+  "bucky": {
+    "id": "bucky",
+    "nickname": "Bucky",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=bucky",
+    "skill": 7.5,
+    "champion_pool": 7.0,
+    "flex_lane": 7.0,
+    "consistency": 7.0,
+    "favorite_champions": [
+      "Urgot",
+      "Chogath",
+      "Nasus"
+    ],
+    "primary_role": "TOP"
   }
 }
