@@ -170,25 +170,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "junimo": {
-    "id": "junimo",
-    "nickname": "Junimo",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=junimo",
-    "skill": 7.0,
-    "champion_pool": 6.5,
-    "flex_lane": 6.5,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Sona",
-      "Soraka",
-      "Yuumi"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "keymis": {
     "id": "keymis",
     "nickname": "Keymis",
@@ -379,11 +360,11 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "sniperTX": {
-    "id": "sniperTX",
+  "snipertx": {
+    "id": "snipertx",
     "nickname": "SniperTX",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=sniperTX",
-    "skill": 8.0,
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=snipertx",
+    "skill": 8.5,
     "champion_pool": 7.5,
     "flex_lane": 6.5,
     "consistency": 7.5,
@@ -545,6 +526,25 @@
       "LeBlanc",
       "Twisted Fate",
       "Talon"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "junimo": {
+    "id": "junimo",
+    "nickname": "Junimo",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=junimo",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "SUP",
+    "favorite_champions": [
+      "Sona",
+      "Soraka",
+      "Yuumi"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
