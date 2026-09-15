@@ -659,11 +659,15 @@
     "id": "havu",
     "nickname": "Cấp Số Nhân",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=havu",
-    "skill": 8.5,
-    "champion_pool": 4.5,
-    "flex_lane": 5.0,
-    "consistency": 8.0,
+    "skill": 9.5,
+    "champion_pool": 6.0,
+    "flex_lane": 8.0,
+    "consistency": 9.5,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
     "favorite_champions": [],
-    "primary_role": "MID"
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
   }
 }
