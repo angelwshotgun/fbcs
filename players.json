@@ -147,25 +147,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "duygudboy": {
-    "id": "duygudboy",
-    "nickname": "DuyGudBoy",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=duygudboy",
-    "skill": 1.0,
-    "champion_pool": 1.0,
-    "flex_lane": 1.0,
-    "consistency": 1.0,
-    "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Blitzcrank",
-      "Alistar",
-      "Pyke"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "eklove": {
     "id": "eklove",
     "nickname": "LuvMis4n",
@@ -340,6 +321,21 @@
       "Vi",
       "Wukong"
     ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "nguoida": {
+    "id": "nguoida",
+    "nickname": "Nibiru",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nguoida",
+    "skill": 4.5,
+    "champion_pool": 4.0,
+    "flex_lane": 1.0,
+    "consistency": 2.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
@@ -553,6 +549,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "watson": {
+    "id": "watson",
+    "nickname": "NST#5833",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tn82gns",
+    "skill": 2.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "yangg": {
     "id": "yangg",
     "nickname": "Bé Mực Của Chang#Chang",
@@ -610,32 +621,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "watson": {
-    "id": "watson",
-    "nickname": "NST#5833",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tn82gns",
-    "skill": 2.0,
-    "champion_pool": 1.0,
+  "duygudboy": {
+    "id": "duygudboy",
+    "nickname": "DuyGudBoy",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=duygudboy",
+    "skill": 1.0,
+    "champion_pool": 10.0,
     "flex_lane": 1.0,
     "consistency": 1.0,
     "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "nguoida": {
-    "id": "nguoida",
-    "nickname": "Nibiru",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nguoida",
-    "skill": 4.5,
-    "champion_pool": 4.0,
-    "flex_lane": 1.0,
-    "consistency": 2.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
+    "primary_role": "SUP",
+    "favorite_champions": [
+      "Blitzcrank",
+      "Alistar",
+      "Pyke"
+    ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
