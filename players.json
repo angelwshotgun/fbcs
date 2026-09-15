@@ -147,6 +147,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "duygudboy": {
+    "id": "duygudboy",
+    "nickname": "DuyGudBoy",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=duygudboy",
+    "skill": 1.0,
+    "champion_pool": 2.0,
+    "flex_lane": 1.0,
+    "consistency": 10.0,
+    "stats_ovr": 6.9,
+    "primary_role": "SUP",
+    "favorite_champions": [
+      "Blitzcrank",
+      "Alistar",
+      "Pyke"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "eklove": {
     "id": "eklove",
     "nickname": "LuvMis4n",
@@ -621,23 +640,15 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "duygudboy": {
-    "id": "duygudboy",
-    "nickname": "DuyGudBoy",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=duygudboy",
-    "skill": 1.0,
-    "champion_pool": 2.0,
-    "flex_lane": 1.0,
-    "consistency": 10.0,
-    "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Blitzcrank",
-      "Alistar",
-      "Pyke"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
+  "hoanghiep": {
+    "id": "hoanghiep",
+    "nickname": "試してみるべき薬",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=hoanghiep",
+    "skill": 8.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.5,
+    "favorite_champions": [],
+    "primary_role": "MID"
   }
 }
