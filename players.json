@@ -626,9 +626,9 @@
     "nickname": "DuyGudBoy",
     "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=duygudboy",
     "skill": 1.0,
-    "champion_pool": 10.0,
+    "champion_pool": 2.0,
     "flex_lane": 1.0,
-    "consistency": 1.0,
+    "consistency": 10.0,
     "stats_ovr": 6.9,
     "primary_role": "SUP",
     "favorite_champions": [
