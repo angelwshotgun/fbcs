@@ -355,25 +355,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "nas": {
-    "id": "nas",
-    "nickname": "Nas",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nas",
-    "skill": 1.0,
-    "champion_pool": 1.0,
-    "flex_lane": 1.0,
-    "consistency": 1.0,
-    "stats_ovr": 6.9,
-    "primary_role": "JGL",
-    "favorite_champions": [
-      "Hecarim",
-      "Vi",
-      "Wukong"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "nguoida": {
     "id": "nguoida",
     "nickname": "Nibiru",
@@ -556,6 +537,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "yukin": {
+    "id": "yukin",
+    "nickname": "YukiN",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=yukin",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "zekrom": {
     "id": "zekrom",
     "nickname": "Zekrom On#1708",
@@ -594,15 +590,23 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "yukin": {
-    "id": "yukin",
-    "nickname": "YukiN",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=yukin",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
-    "favorite_champions": [],
-    "primary_role": "MID"
+  "nas": {
+    "id": "nas",
+    "nickname": "Rose du désert#12345",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nas",
+    "skill": 1.0,
+    "champion_pool": 1.0,
+    "flex_lane": 1.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "JGL",
+    "favorite_champions": [
+      "Hecarim",
+      "Vi",
+      "Wukong"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
   }
 }
