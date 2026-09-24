@@ -427,6 +427,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "snipertx": {
+    "id": "snipertx",
+    "nickname": "SniperTX",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3v9-5Vf5x4XzhZ_-_edBgWvzB1pwjNiKQGy0jZCFzow&s",
+    "skill": 6.0,
+    "champion_pool": 3.0,
+    "flex_lane": 2.0,
+    "consistency": 5.5,
+    "stats_ovr": 6.9,
+    "primary_role": "ADC",
+    "favorite_champions": [
+      "Jhin",
+      "Caitlyn",
+      "Varus"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "svsh": {
     "id": "svsh",
     "nickname": "CCC EsHat#2012",
@@ -586,29 +605,10 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "snipertx": {
-    "id": "snipertx",
-    "nickname": "SniperTX",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3v9-5Vf5x4XzhZ_-_edBgWvzB1pwjNiKQGy0jZCFzow&s",
-    "skill": 6.0,
-    "champion_pool": 3.0,
-    "flex_lane": 2.0,
-    "consistency": 5.5,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Jhin",
-      "Caitlyn",
-      "Varus"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "lalune": {
     "id": "lalune",
     "nickname": "gomen amanai#lalu4",
-    "avatar": "https://www.pinterest.com/pin/120260252546536154/",
+    "avatar": "https://i.pinimg.com/736x/34/40/30/344030d2d582d7d02a5fffb605dc550e.jpg",
     "skill": 8.0,
     "champion_pool": 9.0,
     "flex_lane": 9.0,
