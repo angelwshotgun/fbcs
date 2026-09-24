@@ -18,25 +18,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "alan": {
-    "id": "alan",
-    "nickname": "Lân Lao Lực#1811",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=alan",
-    "skill": 6.0,
-    "champion_pool": 6.0,
-    "flex_lane": 4.0,
-    "consistency": 6.0,
-    "stats_ovr": 6.9,
-    "primary_role": "TOP",
-    "favorite_champions": [
-      "Gwen",
-      "K'Sante",
-      "Gangplank"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "bbom": {
     "id": "bbom",
     "nickname": "Picasso II#vn2",
@@ -616,6 +597,25 @@
     "stats_ovr": 6.9,
     "primary_role": "MID",
     "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "alan": {
+    "id": "alan",
+    "nickname": "Lân Lao Lực#1811",
+    "avatar": "https://i0.wp.com/wallpaperaccess.com/full/2781354.jpg",
+    "skill": 6.0,
+    "champion_pool": 6.0,
+    "flex_lane": 4.0,
+    "consistency": 6.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Gwen",
+      "K'Sante",
+      "Gangplank"
+    ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
