@@ -442,25 +442,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "snipertx": {
-    "id": "snipertx",
-    "nickname": "SniperTX",
-    "avatar": "https://play.google.com/pc-store/games/details?id=com.bro.luckyrace&hl=vi",
-    "skill": 6.0,
-    "champion_pool": 3.0,
-    "flex_lane": 2.0,
-    "consistency": 5.5,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Jhin",
-      "Caitlyn",
-      "Varus"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "svsh": {
     "id": "svsh",
     "nickname": "CCC EsHat#2012",
@@ -476,6 +457,21 @@
       "Rumble",
       "Ornn"
     ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "thngem": {
+    "id": "thngem",
+    "nickname": "thương em",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=thngem",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
@@ -605,15 +601,23 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "thngem": {
-    "id": "thngem",
-    "nickname": "thương em",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=thngem",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
-    "favorite_champions": [],
-    "primary_role": "MID"
+  "snipertx": {
+    "id": "snipertx",
+    "nickname": "SniperTX",
+    "avatar": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/max_verstappen_198164_1_f1a41feed2.jpg",
+    "skill": 6.0,
+    "champion_pool": 3.0,
+    "flex_lane": 2.0,
+    "consistency": 5.5,
+    "stats_ovr": 6.9,
+    "primary_role": "ADC",
+    "favorite_champions": [
+      "Jhin",
+      "Caitlyn",
+      "Varus"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
   }
 }
