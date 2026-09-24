@@ -75,6 +75,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "cumber": {
+    "id": "cumber",
+    "nickname": "Oguri Cappu#123",
+    "avatar": "https://preview.redd.it/is-sakuta-a-good-protagonist-v0-urzqiwaapq3f1.jpeg?width=640&crop=smart&auto=webp&s=8b3e78ef95ba3a47b335460e039393858afeee0b",
+    "skill": 7.0,
+    "champion_pool": 6.0,
+    "flex_lane": 6.0,
+    "consistency": 7.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "dithucc": {
     "id": "dithucc",
     "nickname": "DiThucc",
@@ -287,25 +302,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "myhanh": {
-    "id": "myhanh",
-    "nickname": "HạnhĐẹpZai#H2k8",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=myhanh",
-    "skill": 5.0,
-    "champion_pool": 4.0,
-    "flex_lane": 4.0,
-    "consistency": 4.0,
-    "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Nami",
-      "Karma",
-      "Janna"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "namonade": {
     "id": "namonade",
     "nickname": "Namonade",
@@ -441,6 +437,25 @@
       "Jhin",
       "Caitlyn",
       "Varus"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "svsh": {
+    "id": "svsh",
+    "nickname": "CCC EsHat#2012",
+    "avatar": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/374ab6c6-7502-4741-a4fc-e6802cf60de4/dfx28s3-bf8f0dae-9eb7-4dcb-a876-8c2758343683.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8zNzRhYjZjNi03NTAyLTQ3NDEtYTRmYy1lNjgwMmNmNjBkZTQvZGZ4MjhzMy1iZjhmMGRhZS05ZWI3LTRkY2ItYTg3Ni04YzI3NTgzNDM2ODMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fGd4gJygLaX4jYHc_Au5b_qmyEPKAXo-429W990zADo",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Kennen",
+      "Rumble",
+      "Ornn"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
@@ -586,35 +601,20 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "cumber": {
-    "id": "cumber",
-    "nickname": "Oguri Cappu#123",
-    "avatar": "https://preview.redd.it/is-sakuta-a-good-protagonist-v0-urzqiwaapq3f1.jpeg?width=640&crop=smart&auto=webp&s=8b3e78ef95ba3a47b335460e039393858afeee0b",
-    "skill": 7.0,
-    "champion_pool": 6.0,
-    "flex_lane": 6.0,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "svsh": {
-    "id": "svsh",
-    "nickname": "CCC EsHat#2012",
-    "avatar": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/374ab6c6-7502-4741-a4fc-e6802cf60de4/dfx28s3-bf8f0dae-9eb7-4dcb-a876-8c2758343683.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8zNzRhYjZjNi03NTAyLTQ3NDEtYTRmYy1lNjgwMmNmNjBkZTQvZGZ4MjhzMy1iZjhmMGRhZS05ZWI3LTRkY2ItYTg3Ni04YzI3NTgzNDM2ODMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fGd4gJygLaX4jYHc_Au5b_qmyEPKAXo-429W990zADo",
+  "myhanh": {
+    "id": "myhanh",
+    "nickname": "HạnhĐẹpZai#H2k8",
+    "avatar": "https://share.google/ZOpi24GRY0PkoxdTm",
     "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
+    "champion_pool": 4.0,
+    "flex_lane": 4.0,
+    "consistency": 4.0,
     "stats_ovr": 6.9,
-    "primary_role": "TOP",
+    "primary_role": "SUP",
     "favorite_champions": [
-      "Kennen",
-      "Rumble",
-      "Ornn"
+      "Nami",
+      "Karma",
+      "Janna"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
