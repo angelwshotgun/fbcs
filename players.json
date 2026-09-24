@@ -192,6 +192,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "hungpui": {
+    "id": "hungpui",
+    "nickname": "Nyan#Tabby",
+    "avatar": "https://i.pinimg.com/474x/8a/fc/8a/8afc8adeb318696d4d20c805dc10fdfc.jpg",
+    "skill": 6.5,
+    "champion_pool": 6.0,
+    "flex_lane": 6.5,
+    "consistency": 5.5,
+    "stats_ovr": 6.9,
+    "primary_role": "JGL",
+    "favorite_champions": [
+      "Amumu",
+      "Rammus",
+      "Zac"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "junimo": {
     "id": "junimo",
     "nickname": "Junimo",
@@ -427,6 +446,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "svsh": {
+    "id": "svsh",
+    "nickname": "CCC EsHat#2012",
+    "avatar": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/ff/U3TCwxY.png/revision/latest?cb=20201224124212",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Kennen",
+      "Rumble",
+      "Ornn"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "thngem": {
     "id": "thngem",
     "nickname": "thương em",
@@ -570,7 +608,7 @@
   "namonade": {
     "id": "namonade",
     "nickname": "Namonade",
-    "avatar": "https://i.pinimg.com/originals/db/a7/af/dba7af9d8b8faf3df4c7a070b428b010.jpg?nii=t",
+    "avatar": "https://media.discordapp.net/attachments/1289245477858185258/1552730000330072064/OIP.png?ex=6ab6ac00&is=6ab55a80&hm=29d3f186d16226f559c2a8327dd00909b1ec179d9bfc671e407516ce77c33d60&=&format=webp&quality=lossless",
     "skill": 1.0,
     "champion_pool": 10.0,
     "flex_lane": 10.0,
@@ -578,44 +616,6 @@
     "stats_ovr": 6.9,
     "primary_role": "MID",
     "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "svsh": {
-    "id": "svsh",
-    "nickname": "CCC EsHat#2012",
-    "avatar": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/ff/U3TCwxY.png/revision/latest?cb=20201224124212",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
-    "stats_ovr": 6.9,
-    "primary_role": "TOP",
-    "favorite_champions": [
-      "Kennen",
-      "Rumble",
-      "Ornn"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "hungpui": {
-    "id": "hungpui",
-    "nickname": "Nyan#Tabby",
-    "avatar": "https://i.pinimg.com/474x/8a/fc/8a/8afc8adeb318696d4d20c805dc10fdfc.jpg",
-    "skill": 6.5,
-    "champion_pool": 6.0,
-    "flex_lane": 6.5,
-    "consistency": 5.5,
-    "stats_ovr": 6.9,
-    "primary_role": "JGL",
-    "favorite_champions": [
-      "Amumu",
-      "Rammus",
-      "Zac"
-    ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
