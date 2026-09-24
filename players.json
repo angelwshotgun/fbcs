@@ -268,21 +268,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "lalune": {
-    "id": "lalune",
-    "nickname": "gomen amanai#lalu4",
-    "avatar": "https://www.google.com/search?q=rimuru+slime+avatar&sca_esv=c9af837ca623c2e6&udm=2&biw=1912&bih=956&sxsrf=APpeQnslVLcsFM9XE5mRWcx_MKtshpa7rw%3A1790266625086&ei=AU21aoflBMGnvr0P-9nouQM&ved=2ahUKEwjH6fbxzoeXAxXBk68BHfssOjcQ4dUDegQIBhAN&uact=5&oq=rimuru+slime+avatar&gs_lp=Egtnd3Mtd2l6LWltZyITcmltdXJ1IHNsaW1lIGF2YXRhcjIEEAAYHkiAJ1DBA1jxJXALeACQAQCYAUqgAc8GqgECMTO4AQPIAQD4AQGYAhigApMHwgINEAAYgAQYigUYQxixA8ICBRAAGIAEwgIKEAAYgAQYigUYQ8ICCBAAGIAEGLEDwgIGEAAYBxgemAMAiAYBkgcCMjSgB-4nsgcCMTO4B_QGwgcGNC4xNy4zyAczgAgB&sclient=gws-wiz-img#sv=CAMSURoyKhBlLXVlbTlYTGJOMGFkaTNNMg51ZW05WExiTjBhZGkzTToOZTdTdGFKSXJsUlhRNE0gBCoXCgFzEhBlLXVlbTlYTGJOMGFkaTNNGAEwARgHIMT76b4OSggQARgBIAEoAQ",
-    "skill": 8.0,
-    "champion_pool": 9.0,
-    "flex_lane": 9.0,
-    "consistency": 9.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "mekko": {
     "id": "mekko",
     "nickname": "Mạnh Buối Bù #0312",
@@ -616,6 +601,21 @@
       "Caitlyn",
       "Varus"
     ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "lalune": {
+    "id": "lalune",
+    "nickname": "gomen amanai#lalu4",
+    "avatar": "https://www.pinterest.com/pin/120260252546536154/",
+    "skill": 8.0,
+    "champion_pool": 9.0,
+    "flex_lane": 9.0,
+    "consistency": 9.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
