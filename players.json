@@ -268,6 +268,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "lalune": {
+    "id": "lalune",
+    "nickname": "gomen amanai#lalu4",
+    "avatar": "https://i.pinimg.com/736x/34/40/30/344030d2d582d7d02a5fffb605dc550e.jpg",
+    "skill": 8.0,
+    "champion_pool": 9.0,
+    "flex_lane": 9.0,
+    "consistency": 9.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "mekko": {
     "id": "mekko",
     "nickname": "Mạnh Buối Bù #0312",
@@ -567,25 +582,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "zekrom": {
-    "id": "zekrom",
-    "nickname": "Zekrom On#1708",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=zekrom",
-    "skill": 8.0,
-    "champion_pool": 5.0,
-    "flex_lane": 2.0,
-    "consistency": 6.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [
-      "Ahri",
-      "Syndra",
-      "Orianna"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "zinki": {
     "id": "zinki",
     "nickname": "zxc123221#2518",
@@ -605,17 +601,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "lalune": {
-    "id": "lalune",
-    "nickname": "gomen amanai#lalu4",
-    "avatar": "https://i.pinimg.com/736x/34/40/30/344030d2d582d7d02a5fffb605dc550e.jpg",
+  "zekrom": {
+    "id": "zekrom",
+    "nickname": "Zekrom On#1708",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtBthqBf63yFaEstyg1bQf9-dEsoVIvdIQqDxRHW-DC2tBuywQjbd1NZ3F&s=10",
     "skill": 8.0,
-    "champion_pool": 9.0,
-    "flex_lane": 9.0,
-    "consistency": 9.0,
+    "champion_pool": 5.0,
+    "flex_lane": 2.0,
+    "consistency": 6.0,
     "stats_ovr": 6.9,
     "primary_role": "MID",
-    "favorite_champions": [],
+    "favorite_champions": [
+      "Ahri",
+      "Syndra",
+      "Orianna"
+    ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
