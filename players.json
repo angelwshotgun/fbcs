@@ -446,25 +446,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "svsh": {
-    "id": "svsh",
-    "nickname": "CCC EsHat#2012",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjriVv4M8cmfEYySELIH9nGlm1LBtwoQnQosQi9e64nQ&s=10",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
-    "stats_ovr": 6.9,
-    "primary_role": "TOP",
-    "favorite_champions": [
-      "Kennen",
-      "Rumble",
-      "Ornn"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "thngem": {
     "id": "thngem",
     "nickname": "thương em",
@@ -616,6 +597,25 @@
     "stats_ovr": 6.9,
     "primary_role": "MID",
     "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "svsh": {
+    "id": "svsh",
+    "nickname": "CCC EsHat#2012",
+    "avatar": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/374ab6c6-7502-4741-a4fc-e6802cf60de4/dfx28s3-bf8f0dae-9eb7-4dcb-a876-8c2758343683.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8zNzRhYjZjNi03NTAyLTQ3NDEtYTRmYy1lNjgwMmNmNjBkZTQvZGZ4MjhzMy1iZjhmMGRhZS05ZWI3LTRkY2ItYTg3Ni04YzI3NTgzNDM2ODMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fGd4gJygLaX4jYHc_Au5b_qmyEPKAXo-429W990zADo",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Kennen",
+      "Rumble",
+      "Ornn"
+    ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
