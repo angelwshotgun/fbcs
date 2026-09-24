@@ -109,6 +109,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "dogtung": {
+    "id": "dogtung",
+    "nickname": "DogTung",
+    "avatar": "https://tse2.mm.bing.net/th/id/OIP.jRCTHnYw27ITGxq1zQWQkgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "skill": 8.5,
+    "champion_pool": 5.0,
+    "flex_lane": 6.0,
+    "consistency": 2.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [
+      "Jayce",
+      "Corki",
+      "Tristana"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "duygudboy": {
     "id": "duygudboy",
     "nickname": "DuyGudBoy",
@@ -423,25 +442,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "snipertx": {
-    "id": "snipertx",
-    "nickname": "SniperTX",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3v9-5Vf5x4XzhZ_-_edBgWvzB1pwjNiKQGy0jZCFzow&s",
-    "skill": 6.0,
-    "champion_pool": 3.0,
-    "flex_lane": 2.0,
-    "consistency": 5.5,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Jhin",
-      "Caitlyn",
-      "Varus"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "svsh": {
     "id": "svsh",
     "nickname": "CCC EsHat#2012",
@@ -601,20 +601,20 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "dogtung": {
-    "id": "dogtung",
-    "nickname": "DogTung",
-    "avatar": "https://tse2.mm.bing.net/th/id/OIP.jRCTHnYw27ITGxq1zQWQkgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-    "skill": 8.5,
-    "champion_pool": 5.0,
-    "flex_lane": 6.0,
-    "consistency": 2.0,
+  "snipertx": {
+    "id": "snipertx",
+    "nickname": "SniperTX",
+    "avatar": "https://i.pinimg.com/736x/9b/69/4a/9b694a2907e390ea277ad33d732db6c8.jpg",
+    "skill": 6.0,
+    "champion_pool": 3.0,
+    "flex_lane": 2.0,
+    "consistency": 5.5,
     "stats_ovr": 6.9,
-    "primary_role": "MID",
+    "primary_role": "ADC",
     "favorite_champions": [
-      "Jayce",
-      "Corki",
-      "Tristana"
+      "Jhin",
+      "Caitlyn",
+      "Varus"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
