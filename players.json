@@ -162,6 +162,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "havu": {
+    "id": "havu",
+    "nickname": "Cấp Số Nhân",
+    "avatar": "https://i.pinimg.com/originals/d8/cc/2d/d8cc2d194042521dcfae79bd6cc3b0c0.jpg",
+    "skill": 9.5,
+    "champion_pool": 6.0,
+    "flex_lane": 8.0,
+    "consistency": 9.5,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "hoanghiep": {
     "id": "hoanghiep",
     "nickname": "試してみるべき薬",
@@ -480,25 +495,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "tieuchay": {
-    "id": "tieuchay",
-    "nickname": "Boi Phố Hà Tei#2810",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=tieuchay",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
-    "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Thresh",
-      "Nautilus",
-      "Lulu"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "wanlee": {
     "id": "wanlee",
     "nickname": "Jhin#199x",
@@ -605,17 +601,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "havu": {
-    "id": "havu",
-    "nickname": "Cấp Số Nhân",
-    "avatar": "https://i.pinimg.com/originals/d8/cc/2d/d8cc2d194042521dcfae79bd6cc3b0c0.jpg",
-    "skill": 9.5,
-    "champion_pool": 6.0,
-    "flex_lane": 8.0,
-    "consistency": 9.5,
+  "tieuchay": {
+    "id": "tieuchay",
+    "nickname": "Boi Phố Hà Tei#2810",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ30uCwBwsNex1-wHAT6BCWMRVA4CNjFoaZQGqCDNUYA&s=10",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
     "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
+    "primary_role": "SUP",
+    "favorite_champions": [
+      "Thresh",
+      "Nautilus",
+      "Lulu"
+    ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
