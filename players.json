@@ -75,21 +75,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "cumber": {
-    "id": "cumber",
-    "nickname": "Oguri Cappu#123",
-    "avatar": "https://cdn.hstatic.net/products/200001023438/20028675087_01_8062638956154122bf30e486d1d50703_master.jpg",
-    "skill": 7.0,
-    "champion_pool": 6.0,
-    "flex_lane": 6.0,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "dithucc": {
     "id": "dithucc",
     "nickname": "DiThucc",
@@ -317,6 +302,21 @@
       "Karma",
       "Janna"
     ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "namonade": {
+    "id": "namonade",
+    "nickname": "Namonade",
+    "avatar": "https://media.discordapp.net/attachments/1289245477858185258/1552730000330072064/OIP.png?ex=6ab6ac00&is=6ab55a80&hm=29d3f186d16226f559c2a8327dd00909b1ec179d9bfc671e407516ce77c33d60&=&format=webp&quality=lossless",
+    "skill": 1.0,
+    "champion_pool": 10.0,
+    "flex_lane": 10.0,
+    "consistency": 1.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
@@ -605,14 +605,14 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "namonade": {
-    "id": "namonade",
-    "nickname": "Namonade",
-    "avatar": "https://media.discordapp.net/attachments/1289245477858185258/1552730000330072064/OIP.png?ex=6ab6ac00&is=6ab55a80&hm=29d3f186d16226f559c2a8327dd00909b1ec179d9bfc671e407516ce77c33d60&=&format=webp&quality=lossless",
-    "skill": 1.0,
-    "champion_pool": 10.0,
-    "flex_lane": 10.0,
-    "consistency": 1.0,
+  "cumber": {
+    "id": "cumber",
+    "nickname": "Oguri Cappu#123",
+    "avatar": "https://preview.redd.it/is-sakuta-a-good-protagonist-v0-urzqiwaapq3f1.jpeg?width=640&crop=smart&auto=webp&s=8b3e78ef95ba3a47b335460e039393858afeee0b",
+    "skill": 7.0,
+    "champion_pool": 6.0,
+    "flex_lane": 6.0,
+    "consistency": 7.0,
     "stats_ovr": 6.9,
     "primary_role": "MID",
     "favorite_champions": [],
