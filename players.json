@@ -75,6 +75,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "cumber": {
+    "id": "cumber",
+    "nickname": "Oguri Cappu#123",
+    "avatar": "https://cdn.hstatic.net/products/200001023438/20028675087_01_8062638956154122bf30e486d1d50703_master.jpg",
+    "skill": 7.0,
+    "champion_pool": 6.0,
+    "flex_lane": 6.0,
+    "consistency": 7.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "dithucc": {
     "id": "dithucc",
     "nickname": "DiThucc",
@@ -431,6 +446,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "svsh": {
+    "id": "svsh",
+    "nickname": "CCC EsHat#2012",
+    "avatar": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/ff/U3TCwxY.png/revision/latest?cb=20201224124212",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Kennen",
+      "Rumble",
+      "Ornn"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "thngem": {
     "id": "thngem",
     "nickname": "thương em",
@@ -571,48 +605,14 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "svsh": {
-    "id": "svsh",
-    "nickname": "CCC EsHat#2012",
-    "avatar": "https://static.wikia.nocookie.net/mob-psycho-100/images/f/ff/U3TCwxY.png/revision/latest?cb=20201224124212",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
-    "stats_ovr": 6.9,
-    "primary_role": "TOP",
-    "favorite_champions": [
-      "Kennen",
-      "Rumble",
-      "Ornn"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "namonade": {
     "id": "namonade",
     "nickname": "Namonade",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=namonade",
+    "avatar": "https://i.pinimg.com/originals/db/a7/af/dba7af9d8b8faf3df4c7a070b428b010.jpg?nii=t",
     "skill": 1.0,
     "champion_pool": 10.0,
     "flex_lane": 10.0,
     "consistency": 1.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "cumber": {
-    "id": "cumber",
-    "nickname": "Oguri Cappu#123",
-    "avatar": "https://cdn.hstatic.net/products/200001023438/20028675087_01_8062638956154122bf30e486d1d50703_master.jpg",
-    "skill": 7.0,
-    "champion_pool": 6.0,
-    "flex_lane": 6.0,
-    "consistency": 7.0,
     "stats_ovr": 6.9,
     "primary_role": "MID",
     "favorite_champions": [],
