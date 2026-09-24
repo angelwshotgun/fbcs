@@ -582,25 +582,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "hungpui": {
-    "id": "hungpui",
-    "nickname": "Nyan#Tabby",
-    "avatar": "https://anime-icons.com/picture/23782",
-    "skill": 6.5,
-    "champion_pool": 6.0,
-    "flex_lane": 6.5,
-    "consistency": 5.5,
-    "stats_ovr": 6.9,
-    "primary_role": "JGL",
-    "favorite_champions": [
-      "Amumu",
-      "Rammus",
-      "Zac"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "svsh": {
     "id": "svsh",
     "nickname": "CCC EsHat#2012",
@@ -615,6 +596,25 @@
       "Kennen",
       "Rumble",
       "Ornn"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "hungpui": {
+    "id": "hungpui",
+    "nickname": "Nyan#Tabby",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWCxOJNoGFbzWqPH8gZJy13RQairYw1_3k-t2Htm9g7h4XC_2Ed0z7i7Q&s=10",
+    "skill": 6.5,
+    "champion_pool": 6.0,
+    "flex_lane": 6.5,
+    "consistency": 5.5,
+    "stats_ovr": 6.9,
+    "primary_role": "JGL",
+    "favorite_champions": [
+      "Amumu",
+      "Rammus",
+      "Zac"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
