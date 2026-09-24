@@ -18,6 +18,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "alan": {
+    "id": "alan",
+    "nickname": "Lân Lao Lực#1811",
+    "avatar": "https://i0.wp.com/wallpaperaccess.com/full/2781354.jpg",
+    "skill": 6.0,
+    "champion_pool": 6.0,
+    "flex_lane": 4.0,
+    "consistency": 6.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Gwen",
+      "K'Sante",
+      "Gangplank"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "bbom": {
     "id": "bbom",
     "nickname": "Picasso II#vn2",
@@ -56,6 +75,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "cumber": {
+    "id": "cumber",
+    "nickname": "Oguri Cappu#123",
+    "avatar": "https://cdn.hstatic.net/products/200001023438/20028675087_01_8062638956154122bf30e486d1d50703_master.jpg",
+    "skill": 5.5,
+    "champion_pool": 4.0,
+    "flex_lane": 2.5,
+    "consistency": 4.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "dithucc": {
     "id": "dithucc",
     "nickname": "DiThucc",
@@ -70,25 +104,6 @@
       "Xin Zhao",
       "Sejuani",
       "Nocturne"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "dogtung": {
-    "id": "dogtung",
-    "nickname": "DogTung",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=dogtung",
-    "skill": 8.5,
-    "champion_pool": 5.0,
-    "flex_lane": 6.0,
-    "consistency": 2.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [
-      "Jayce",
-      "Corki",
-      "Tristana"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
@@ -586,36 +601,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "alan": {
-    "id": "alan",
-    "nickname": "Lân Lao Lực#1811",
-    "avatar": "https://i0.wp.com/wallpaperaccess.com/full/2781354.jpg",
-    "skill": 6.0,
-    "champion_pool": 6.0,
-    "flex_lane": 4.0,
-    "consistency": 6.0,
-    "stats_ovr": 6.9,
-    "primary_role": "TOP",
-    "favorite_champions": [
-      "Gwen",
-      "K'Sante",
-      "Gangplank"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "cumber": {
-    "id": "cumber",
-    "nickname": "Oguri Cappu#123",
-    "avatar": "https://cdn.hstatic.net/products/200001023438/20028675087_01_8062638956154122bf30e486d1d50703_master.jpg",
-    "skill": 5.5,
-    "champion_pool": 4.0,
-    "flex_lane": 2.5,
-    "consistency": 4.0,
+  "dogtung": {
+    "id": "dogtung",
+    "nickname": "DogTung",
+    "avatar": "https://www.google.com.vn/imgres?q=hong%20ty&imgurl=https%3A%2F%2Fcdn2.tuoitre.vn%2Fphunuonline%2Fimage%2Ffckeditor%2Fupload%2F2025%2F20250710%2Fimages%2Ftu-bi-kich-chi-hong-ty-_221752154631.jpg&imgrefurl=https%3A%2F%2Ftuoitre.vn%2Fphunuonline%2Ftu-cau-chuyen-hong-ty-den-su-co-don-khong-the-goi-ten-1101554738.htm&docid=FcK-jmiJcT2z-M&tbnid=zA_4GMXliZt5aM&vet=12ahUKEwikxZCLz4eXAxXYgFYBHQrPF6UQnPAOegQINxAA..i&w=1102&h=1020&hcb=2&ved=2ahUKEwikxZCLz4eXAxXYgFYBHQrPF6UQnPAOegQINxAA",
+    "skill": 8.5,
+    "champion_pool": 5.0,
+    "flex_lane": 6.0,
+    "consistency": 2.0,
     "stats_ovr": 6.9,
     "primary_role": "MID",
-    "favorite_champions": [],
+    "favorite_champions": [
+      "Jayce",
+      "Corki",
+      "Tristana"
+    ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
