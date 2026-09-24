@@ -109,25 +109,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "dogtung": {
-    "id": "dogtung",
-    "nickname": "DogTung",
-    "avatar": "https://www.google.com.vn/imgres?q=hong%20ty&imgurl=https%3A%2F%2Fcdn2.tuoitre.vn%2Fphunuonline%2Fimage%2Ffckeditor%2Fupload%2F2025%2F20250710%2Fimages%2Ftu-bi-kich-chi-hong-ty-_221752154631.jpg&imgrefurl=https%3A%2F%2Ftuoitre.vn%2Fphunuonline%2Ftu-cau-chuyen-hong-ty-den-su-co-don-khong-the-goi-ten-1101554738.htm&docid=FcK-jmiJcT2z-M&tbnid=zA_4GMXliZt5aM&vet=12ahUKEwikxZCLz4eXAxXYgFYBHQrPF6UQnPAOegQINxAA..i&w=1102&h=1020&hcb=2&ved=2ahUKEwikxZCLz4eXAxXYgFYBHQrPF6UQnPAOegQINxAA",
-    "skill": 8.5,
-    "champion_pool": 5.0,
-    "flex_lane": 6.0,
-    "consistency": 2.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [
-      "Jayce",
-      "Corki",
-      "Tristana"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "duygudboy": {
     "id": "duygudboy",
     "nickname": "DuyGudBoy",
@@ -567,6 +548,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "yukin": {
+    "id": "yukin",
+    "nickname": "YukiN",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=w61zos5",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "zekrom": {
     "id": "zekrom",
     "nickname": "Zekrom On#1708",
@@ -605,17 +601,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "yukin": {
-    "id": "yukin",
-    "nickname": "YukiN",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=w61zos5",
-    "skill": 5.0,
+  "dogtung": {
+    "id": "dogtung",
+    "nickname": "DogTung",
+    "avatar": "https://tse2.mm.bing.net/th/id/OIP.jRCTHnYw27ITGxq1zQWQkgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "skill": 8.5,
     "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
+    "flex_lane": 6.0,
+    "consistency": 2.0,
     "stats_ovr": 6.9,
     "primary_role": "MID",
-    "favorite_champions": [],
+    "favorite_champions": [
+      "Jayce",
+      "Corki",
+      "Tristana"
+    ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
