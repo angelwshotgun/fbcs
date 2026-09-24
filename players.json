@@ -442,20 +442,20 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "snipertx": {
-    "id": "snipertx",
-    "nickname": "SniperTX",
-    "avatar": "https://i.pinimg.com/736x/9b/69/4a/9b694a2907e390ea277ad33d732db6c8.jpg",
-    "skill": 6.0,
-    "champion_pool": 3.0,
-    "flex_lane": 2.0,
-    "consistency": 5.5,
+  "svsh": {
+    "id": "svsh",
+    "nickname": "CCC EsHat#2012",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=1newxan",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
     "stats_ovr": 6.9,
-    "primary_role": "ADC",
+    "primary_role": "TOP",
     "favorite_champions": [
-      "Jhin",
-      "Caitlyn",
-      "Varus"
+      "Kennen",
+      "Rumble",
+      "Ornn"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
@@ -601,20 +601,20 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "svsh": {
-    "id": "svsh",
-    "nickname": "CCC EsHat#2012",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=1newxan",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
+  "snipertx": {
+    "id": "snipertx",
+    "nickname": "SniperTX",
+    "avatar": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/08/Lelouch-Zero.jpg?w=1600&h=900&fit=crop",
+    "skill": 6.0,
+    "champion_pool": 3.0,
+    "flex_lane": 2.0,
+    "consistency": 5.5,
     "stats_ovr": 6.9,
-    "primary_role": "TOP",
+    "primary_role": "ADC",
     "favorite_champions": [
-      "Kennen",
-      "Rumble",
-      "Ornn"
+      "Jhin",
+      "Caitlyn",
+      "Varus"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
