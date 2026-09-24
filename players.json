@@ -56,25 +56,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "candy": {
-    "id": "candy",
-    "nickname": "Bé Kẹo#God",
-    "avatar": "https://pbs.twimg.com/media/EjtTxSoU8AA0c04.jpg",
-    "skill": 7.0,
-    "champion_pool": 8.0,
-    "flex_lane": 4.0,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Lux",
-      "Morgana",
-      "Seraphine"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "cumber": {
     "id": "cumber",
     "nickname": "Oguri Cappu#123",
@@ -615,6 +596,25 @@
       "Jhin",
       "Caitlyn",
       "Varus"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "candy": {
+    "id": "candy",
+    "nickname": "Bé Kẹo#God",
+    "avatar": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQy3BP5EKu6hEw_jvNve0CyAvXP-5zzTk2uLxaYVw-7Ux05-zPE",
+    "skill": 7.0,
+    "champion_pool": 8.0,
+    "flex_lane": 4.0,
+    "consistency": 7.0,
+    "stats_ovr": 6.9,
+    "primary_role": "SUP",
+    "favorite_champions": [
+      "Lux",
+      "Morgana",
+      "Seraphine"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
