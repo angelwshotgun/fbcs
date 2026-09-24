@@ -109,6 +109,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "dogtung": {
+    "id": "dogtung",
+    "nickname": "DogTung",
+    "avatar": "https://www.google.com.vn/imgres?q=hong%20ty&imgurl=https%3A%2F%2Fcdn2.tuoitre.vn%2Fphunuonline%2Fimage%2Ffckeditor%2Fupload%2F2025%2F20250710%2Fimages%2Ftu-bi-kich-chi-hong-ty-_221752154631.jpg&imgrefurl=https%3A%2F%2Ftuoitre.vn%2Fphunuonline%2Ftu-cau-chuyen-hong-ty-den-su-co-don-khong-the-goi-ten-1101554738.htm&docid=FcK-jmiJcT2z-M&tbnid=zA_4GMXliZt5aM&vet=12ahUKEwikxZCLz4eXAxXYgFYBHQrPF6UQnPAOegQINxAA..i&w=1102&h=1020&hcb=2&ved=2ahUKEwikxZCLz4eXAxXYgFYBHQrPF6UQnPAOegQINxAA",
+    "skill": 8.5,
+    "champion_pool": 5.0,
+    "flex_lane": 6.0,
+    "consistency": 2.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [
+      "Jayce",
+      "Corki",
+      "Tristana"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "duygudboy": {
     "id": "duygudboy",
     "nickname": "DuyGudBoy",
@@ -245,6 +264,21 @@
       "Fiora",
       "Renekton"
     ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "lalune": {
+    "id": "lalune",
+    "nickname": "gomen amanai#lalu4",
+    "avatar": "https://www.google.com/search?q=rimuru+slime+avatar&sca_esv=c9af837ca623c2e6&udm=2&biw=1912&bih=956&sxsrf=APpeQnslVLcsFM9XE5mRWcx_MKtshpa7rw%3A1790266625086&ei=AU21aoflBMGnvr0P-9nouQM&ved=2ahUKEwjH6fbxzoeXAxXBk68BHfssOjcQ4dUDegQIBhAN&uact=5&oq=rimuru+slime+avatar&gs_lp=Egtnd3Mtd2l6LWltZyITcmltdXJ1IHNsaW1lIGF2YXRhcjIEEAAYHkiAJ1DBA1jxJXALeACQAQCYAUqgAc8GqgECMTO4AQPIAQD4AQGYAhigApMHwgINEAAYgAQYigUYQxixA8ICBRAAGIAEwgIKEAAYgAQYigUYQ8ICCBAAGIAEGLEDwgIGEAAYBxgemAMAiAYBkgcCMjSgB-4nsgcCMTO4B_QGwgcGNC4xNy4zyAczgAgB&sclient=gws-wiz-img#sv=CAMSURoyKhBlLXVlbTlYTGJOMGFkaTNNMg51ZW05WExiTjBhZGkzTToOZTdTdGFKSXJsUlhRNE0gBCoXCgFzEhBlLXVlbTlYTGJOMGFkaTNNGAEwARgHIMT76b4OSggQARgBIAEoAQ",
+    "skill": 8.0,
+    "champion_pool": 9.0,
+    "flex_lane": 9.0,
+    "consistency": 9.0,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
@@ -403,25 +437,6 @@
       "Irelia",
       "Riven",
       "Sett"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "snipertx": {
-    "id": "snipertx",
-    "nickname": "SniperTX",
-    "avatar": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/max_verstappen_198164_1_f1a41feed2.jpg",
-    "skill": 6.0,
-    "champion_pool": 3.0,
-    "flex_lane": 2.0,
-    "consistency": 5.5,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Jhin",
-      "Caitlyn",
-      "Varus"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
@@ -586,36 +601,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "dogtung": {
-    "id": "dogtung",
-    "nickname": "DogTung",
-    "avatar": "https://www.google.com.vn/imgres?q=hong%20ty&imgurl=https%3A%2F%2Fcdn2.tuoitre.vn%2Fphunuonline%2Fimage%2Ffckeditor%2Fupload%2F2025%2F20250710%2Fimages%2Ftu-bi-kich-chi-hong-ty-_221752154631.jpg&imgrefurl=https%3A%2F%2Ftuoitre.vn%2Fphunuonline%2Ftu-cau-chuyen-hong-ty-den-su-co-don-khong-the-goi-ten-1101554738.htm&docid=FcK-jmiJcT2z-M&tbnid=zA_4GMXliZt5aM&vet=12ahUKEwikxZCLz4eXAxXYgFYBHQrPF6UQnPAOegQINxAA..i&w=1102&h=1020&hcb=2&ved=2ahUKEwikxZCLz4eXAxXYgFYBHQrPF6UQnPAOegQINxAA",
-    "skill": 8.5,
-    "champion_pool": 5.0,
-    "flex_lane": 6.0,
-    "consistency": 2.0,
+  "snipertx": {
+    "id": "snipertx",
+    "nickname": "SniperTX",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3v9-5Vf5x4XzhZ_-_edBgWvzB1pwjNiKQGy0jZCFzow&s",
+    "skill": 6.0,
+    "champion_pool": 3.0,
+    "flex_lane": 2.0,
+    "consistency": 5.5,
     "stats_ovr": 6.9,
-    "primary_role": "MID",
+    "primary_role": "ADC",
     "favorite_champions": [
-      "Jayce",
-      "Corki",
-      "Tristana"
+      "Jhin",
+      "Caitlyn",
+      "Varus"
     ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "lalune": {
-    "id": "lalune",
-    "nickname": "gomen amanai#lalu4",
-    "avatar": "https://www.google.com/search?q=rimuru+slime+avatar&sca_esv=c9af837ca623c2e6&udm=2&biw=1912&bih=956&sxsrf=APpeQnslVLcsFM9XE5mRWcx_MKtshpa7rw%3A1790266625086&ei=AU21aoflBMGnvr0P-9nouQM&ved=2ahUKEwjH6fbxzoeXAxXBk68BHfssOjcQ4dUDegQIBhAN&uact=5&oq=rimuru+slime+avatar&gs_lp=Egtnd3Mtd2l6LWltZyITcmltdXJ1IHNsaW1lIGF2YXRhcjIEEAAYHkiAJ1DBA1jxJXALeACQAQCYAUqgAc8GqgECMTO4AQPIAQD4AQGYAhigApMHwgINEAAYgAQYigUYQxixA8ICBRAAGIAEwgIKEAAYgAQYigUYQ8ICCBAAGIAEGLEDwgIGEAAYBxgemAMAiAYBkgcCMjSgB-4nsgcCMTO4B_QGwgcGNC4xNy4zyAczgAgB&sclient=gws-wiz-img#sv=CAMSURoyKhBlLXVlbTlYTGJOMGFkaTNNMg51ZW05WExiTjBhZGkzTToOZTdTdGFKSXJsUlhRNE0gBCoXCgFzEhBlLXVlbTlYTGJOMGFkaTNNGAEwARgHIMT76b4OSggQARgBIAEoAQ",
-    "skill": 8.0,
-    "champion_pool": 9.0,
-    "flex_lane": 9.0,
-    "consistency": 9.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
