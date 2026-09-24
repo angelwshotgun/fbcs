@@ -162,21 +162,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "havu": {
-    "id": "havu",
-    "nickname": "Cấp Số Nhân",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=havu",
-    "skill": 9.5,
-    "champion_pool": 6.0,
-    "flex_lane": 8.0,
-    "consistency": 9.5,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "hoanghiep": {
     "id": "hoanghiep",
     "nickname": "試してみるべき薬",
@@ -461,6 +446,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "svsh": {
+    "id": "svsh",
+    "nickname": "CCC EsHat#2012",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjriVv4M8cmfEYySELIH9nGlm1LBtwoQnQosQi9e64nQ&s=10",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Kennen",
+      "Rumble",
+      "Ornn"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "thngem": {
     "id": "thngem",
     "nickname": "thương em",
@@ -601,21 +605,17 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "svsh": {
-    "id": "svsh",
-    "nickname": "CCC EsHat#2012",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjriVv4M8cmfEYySELIH9nGlm1LBtwoQnQosQi9e64nQ&s=10",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
+  "havu": {
+    "id": "havu",
+    "nickname": "Cấp Số Nhân",
+    "avatar": "https://i.pinimg.com/originals/d8/cc/2d/d8cc2d194042521dcfae79bd6cc3b0c0.jpg",
+    "skill": 9.5,
+    "champion_pool": 6.0,
+    "flex_lane": 8.0,
+    "consistency": 9.5,
     "stats_ovr": 6.9,
-    "primary_role": "TOP",
-    "favorite_champions": [
-      "Kennen",
-      "Rumble",
-      "Ornn"
-    ],
+    "primary_role": "MID",
+    "favorite_champions": [],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
