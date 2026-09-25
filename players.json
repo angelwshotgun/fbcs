@@ -177,6 +177,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "hoanghiep": {
+    "id": "hoanghiep",
+    "nickname": "試してみるべき薬",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ93HbsA7V5NSl_CgiiJu8p-sHKOTjy3dc5iwlmq6y6g&s=10",
+    "skill": 8.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.5,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "hungpui": {
     "id": "hungpui",
     "nickname": "Nyan#Tabby",
@@ -427,25 +442,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "snipertx": {
-    "id": "snipertx",
-    "nickname": "SniperTX",
-    "avatar": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/08/Lelouch-Zero.jpg?w=1600&h=900&fit=crop",
-    "skill": 6.0,
-    "champion_pool": 3.0,
-    "flex_lane": 2.0,
-    "consistency": 5.5,
-    "stats_ovr": 6.9,
-    "primary_role": "ADC",
-    "favorite_champions": [
-      "Jhin",
-      "Caitlyn",
-      "Varus"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "svsh": {
     "id": "svsh",
     "nickname": "CCC EsHat#2012",
@@ -605,17 +601,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "hoanghiep": {
-    "id": "hoanghiep",
-    "nickname": "試してみるべき薬",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ93HbsA7V5NSl_CgiiJu8p-sHKOTjy3dc5iwlmq6y6g&s=10",
-    "skill": 8.0,
-    "champion_pool": 6.5,
-    "flex_lane": 6.5,
-    "consistency": 7.5,
+  "snipertx": {
+    "id": "snipertx",
+    "nickname": "SniperTX",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvHOIsLHEnWjlXYgFPqbcR1gow-KRGmvN_6aO6pHi1Q&s=10",
+    "skill": 6.0,
+    "champion_pool": 3.0,
+    "flex_lane": 2.0,
+    "consistency": 5.5,
     "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
+    "primary_role": "ADC",
+    "favorite_champions": [
+      "Jhin",
+      "Caitlyn",
+      "Varus"
+    ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
