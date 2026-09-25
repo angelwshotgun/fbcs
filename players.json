@@ -128,25 +128,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "duygudboy": {
-    "id": "duygudboy",
-    "nickname": "DuyGudBoy",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=duygudboy",
-    "skill": 1.0,
-    "champion_pool": 2.0,
-    "flex_lane": 1.0,
-    "consistency": 10.0,
-    "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Blitzcrank",
-      "Alistar",
-      "Pyke"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "eklove": {
     "id": "eklove",
     "nickname": "LuvMis4n",
@@ -461,6 +442,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "svsh": {
+    "id": "svsh",
+    "nickname": "CCC EsHat#2012",
+    "avatar": "https://i.pinimg.com/736x/bc/f5/30/bcf5303046347493836b11c841f05713.jpg",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
+    "stats_ovr": 6.9,
+    "primary_role": "TOP",
+    "favorite_champions": [
+      "Kennen",
+      "Rumble",
+      "Ornn"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "thngem": {
     "id": "thngem",
     "nickname": "thương em",
@@ -601,20 +601,20 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "svsh": {
-    "id": "svsh",
-    "nickname": "CCC EsHat#2012",
-    "avatar": "https://i.pinimg.com/736x/bc/f5/30/bcf5303046347493836b11c841f05713.jpg",
-    "skill": 5.0,
-    "champion_pool": 5.0,
-    "flex_lane": 5.0,
-    "consistency": 5.0,
+  "duygudboy": {
+    "id": "duygudboy",
+    "nickname": "DuyGudBoy",
+    "avatar": "https://yt3.googleusercontent.com/UwMYhqBggiq07-6p2cAyLJ2JV6LdfbBYrdvCB1Mh4QS4ciU9JB67_t-YSQICbdh9sZzAOhOtyQ=s900-c-k-c0x00ffffff-no-rj",
+    "skill": 1.0,
+    "champion_pool": 2.0,
+    "flex_lane": 1.0,
+    "consistency": 10.0,
     "stats_ovr": 6.9,
-    "primary_role": "TOP",
+    "primary_role": "SUP",
     "favorite_champions": [
-      "Kennen",
-      "Rumble",
-      "Ornn"
+      "Blitzcrank",
+      "Alistar",
+      "Pyke"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
