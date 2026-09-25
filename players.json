@@ -283,25 +283,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "myhanh": {
-    "id": "myhanh",
-    "nickname": "HạnhĐẹpZai#H2k8",
-    "avatar": "https://i.pinimg.com/736x/f2/bc/6f/f2bc6f59598c3a8d1bf6a3e42a705112.jpg",
-    "skill": 5.0,
-    "champion_pool": 4.0,
-    "flex_lane": 4.0,
-    "consistency": 4.0,
-    "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Nami",
-      "Karma",
-      "Janna"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "namonade": {
     "id": "namonade",
     "nickname": "Namonade",
@@ -615,6 +596,25 @@
       "Lucian",
       "Tristana",
       "Sivir"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "myhanh": {
+    "id": "myhanh",
+    "nickname": "HạnhĐẹpZai#H2k8",
+    "avatar": "https://i.pinimg.com/736x/f2/bc/6f/f2bc6f59598c3a8d1bf6a3e42a705112.jpg",
+    "skill": 5.0,
+    "champion_pool": 4.0,
+    "flex_lane": 4.0,
+    "consistency": 6.0,
+    "stats_ovr": 6.9,
+    "primary_role": "SUP",
+    "favorite_champions": [
+      "Nami",
+      "Karma",
+      "Janna"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
