@@ -128,6 +128,25 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "duygudboy": {
+    "id": "duygudboy",
+    "nickname": "DuyGudBoy",
+    "avatar": "https://yt3.googleusercontent.com/UwMYhqBggiq07-6p2cAyLJ2JV6LdfbBYrdvCB1Mh4QS4ciU9JB67_t-YSQICbdh9sZzAOhOtyQ=s900-c-k-c0x00ffffff-no-rj",
+    "skill": 1.0,
+    "champion_pool": 2.0,
+    "flex_lane": 1.0,
+    "consistency": 10.0,
+    "stats_ovr": 6.9,
+    "primary_role": "SUP",
+    "favorite_champions": [
+      "Blitzcrank",
+      "Alistar",
+      "Pyke"
+    ],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "eklove": {
     "id": "eklove",
     "nickname": "LuvMis4n",
@@ -151,21 +170,6 @@
     "champion_pool": 6.0,
     "flex_lane": 8.0,
     "consistency": 9.5,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "hoanghiep": {
-    "id": "hoanghiep",
-    "nickname": "試してみるべき薬",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ93HbsA7V5NSl_CgiiJu8p-sHKOTjy3dc5iwlmq6y6g&s=10",
-    "skill": 8.0,
-    "champion_pool": 6.5,
-    "flex_lane": 6.5,
-    "consistency": 7.5,
     "stats_ovr": 6.9,
     "primary_role": "MID",
     "favorite_champions": [],
@@ -601,21 +605,17 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "duygudboy": {
-    "id": "duygudboy",
-    "nickname": "DuyGudBoy",
-    "avatar": "https://yt3.googleusercontent.com/UwMYhqBggiq07-6p2cAyLJ2JV6LdfbBYrdvCB1Mh4QS4ciU9JB67_t-YSQICbdh9sZzAOhOtyQ=s900-c-k-c0x00ffffff-no-rj",
-    "skill": 1.0,
-    "champion_pool": 2.0,
-    "flex_lane": 1.0,
-    "consistency": 10.0,
+  "hoanghiep": {
+    "id": "hoanghiep",
+    "nickname": "試してみるべき薬",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRULKlwHiDT022PKjvl3hl-KXtt0QvAIsg0oxp_W6P_A&s=10",
+    "skill": 8.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.5,
     "stats_ovr": 6.9,
-    "primary_role": "SUP",
-    "favorite_champions": [
-      "Blitzcrank",
-      "Alistar",
-      "Pyke"
-    ],
+    "primary_role": "MID",
+    "favorite_champions": [],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
