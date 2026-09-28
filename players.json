@@ -177,6 +177,21 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "hoanghiep": {
+    "id": "hoanghiep",
+    "nickname": "試してみるべき薬",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRULKlwHiDT022PKjvl3hl-KXtt0QvAIsg0oxp_W6P_A&s=10",
+    "skill": 8.0,
+    "champion_pool": 6.5,
+    "flex_lane": 6.5,
+    "consistency": 7.5,
+    "stats_ovr": 6.9,
+    "primary_role": "MID",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "hungpui": {
     "id": "hungpui",
     "nickname": "Nyan#Tabby",
@@ -605,19 +620,15 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "hoanghiep": {
-    "id": "hoanghiep",
-    "nickname": "試してみるべき薬",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRULKlwHiDT022PKjvl3hl-KXtt0QvAIsg0oxp_W6P_A&s=10",
-    "skill": 8.0,
-    "champion_pool": 6.5,
-    "flex_lane": 6.5,
-    "consistency": 7.5,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
+  "quả quýt cô đơn": {
+    "id": "quả quýt cô đơn",
+    "nickname": "quả quýt cô đơn",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=quả quýt cô đơn",
+    "skill": 5.0,
+    "champion_pool": 5.0,
+    "flex_lane": 5.0,
+    "consistency": 5.0,
     "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
+    "primary_role": "MID"
   }
 }
