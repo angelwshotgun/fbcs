@@ -167,22 +167,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "havu": {
-    "id": "havu",
-    "nickname": "Cấp Số Nhân",
-    "avatar": "https://i.pinimg.com/originals/d8/cc/2d/d8cc2d194042521dcfae79bd6cc3b0c0.jpg",
-    "duck_image": "",
-    "skill": 9.5,
-    "champion_pool": 6.0,
-    "flex_lane": 8.0,
-    "consistency": 9.5,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "hoanghiep": {
     "id": "hoanghiep",
     "nickname": "試してみるべき薬",
@@ -643,6 +627,16 @@
     "id": "nnak",
     "nickname": "Đâu phải NNAK#kspkr",
     "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotiBiSrHNrqVjdZhmymI6bBa8x1ROKe-K0G9FuN6vF3H1drabInjBmcrf&s=10",
+    "duck_image": "",
+    "stats_ovr": 6.9,
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
+  "havu": {
+    "id": "havu",
+    "nickname": "Cấp Số Nhân",
+    "avatar": "https://media.discordapp.net/attachments/1276062740300955689/1556666648432480296/show.png?backend=b2&ex=6ac4fe4a&is=6ac3acca&hm=fe5a0f4a90af8ea93e8fd493a85bf6458597f9395011c19566171f3e5da99df5&=&format=webp&quality=lossless",
     "duck_image": "",
     "stats_ovr": 6.9,
     "hidden_elo": 1200.0,
