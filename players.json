@@ -183,22 +183,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "hoanghiep": {
-    "id": "hoanghiep",
-    "nickname": "試してみるべき薬",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRULKlwHiDT022PKjvl3hl-KXtt0QvAIsg0oxp_W6P_A&s=10",
-    "duck_image": "",
-    "skill": 7.0,
-    "champion_pool": 7.0,
-    "flex_lane": 6.5,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "ALL",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "hungpui": {
     "id": "hungpui",
     "nickname": "Nyan#Tabby",
@@ -527,6 +511,22 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "tieuchay": {
+    "id": "tieuchay",
+    "nickname": "Boi Phố Hà Tei#2810",
+    "avatar": "https://static.wikia.nocookie.net/dreamworks/images/5/56/Lord_Shen_Profile.jpg/revision/latest?cb=20240204041933",
+    "duck_image": "",
+    "skill": 7.0,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ALL",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "wanlee": {
     "id": "wanlee",
     "nickname": "Jhin#199x",
@@ -635,10 +635,10 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "tieuchay": {
-    "id": "tieuchay",
-    "nickname": "Boi Phố Hà Tei#2810",
-    "avatar": "https://static.wikia.nocookie.net/dreamworks/images/5/56/Lord_Shen_Profile.jpg/revision/latest?cb=20240204041933",
+  "hoanghiep": {
+    "id": "hoanghiep",
+    "nickname": "試してみるべき薬",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4hKBLdukn2QhPdqsvGMBnD3YsJ8-wT2B7Ju_d8_39w&s=10",
     "duck_image": "",
     "stats_ovr": 6.9,
     "hidden_elo": 1200.0,
