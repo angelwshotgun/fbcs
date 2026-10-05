@@ -642,8 +642,8 @@
   "nnak": {
     "id": "nnak",
     "nickname": "Đâu phải NNAK#kspkr",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtsanOkBT7Qh_fM_3U6k7MCuTwbmy-zruBYTkcgEeORA&s",
-    "duck_image": "",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=nnak",
+    "duck_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvjHNdeWdpg81L2Qs7lWX-YRJjcrmuMTSzkwZT4bRjw&s=10",
     "stats_ovr": 6.9,
     "hidden_elo": 1200.0,
     "form_score": 5.0,
