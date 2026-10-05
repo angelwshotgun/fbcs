@@ -151,6 +151,22 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "eklove": {
+    "id": "eklove",
+    "nickname": "LuvMis4n",
+    "avatar": "https://sl.bing.net/hrvCQ9qDfyK",
+    "duck_image": "",
+    "skill": 7.0,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ALL",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "havu": {
     "id": "havu",
     "nickname": "Cấp Số Nhân",
@@ -167,22 +183,18 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "hungpui": {
-    "id": "hungpui",
-    "nickname": "Nyan#Tabby",
-    "avatar": "https://i.pinimg.com/474x/8a/fc/8a/8afc8adeb318696d4d20c805dc10fdfc.jpg",
+  "hoanghiep": {
+    "id": "hoanghiep",
+    "nickname": "試してみるべき薬",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4hKBLdukn2QhPdqsvGMBnD3YsJ8-wT2B7Ju_d8_39w&s=10",
     "duck_image": "",
-    "skill": 6.5,
-    "champion_pool": 6.0,
+    "skill": 7.0,
+    "champion_pool": 7.0,
     "flex_lane": 6.5,
-    "consistency": 5.5,
+    "consistency": 7.0,
     "stats_ovr": 6.9,
-    "primary_role": "JGL",
-    "favorite_champions": [
-      "Amumu",
-      "Rammus",
-      "Zac"
-    ],
+    "primary_role": "ALL",
+    "favorite_champions": [],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
     "form_status": "neutral"
@@ -619,21 +631,11 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "hoanghiep": {
-    "id": "hoanghiep",
-    "nickname": "試してみるべき薬",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4hKBLdukn2QhPdqsvGMBnD3YsJ8-wT2B7Ju_d8_39w&s=10",
-    "duck_image": "",
-    "stats_ovr": 6.9,
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "eklove": {
-    "id": "eklove",
-    "nickname": "LuvMis4n",
-    "avatar": "https://sl.bing.net/hrvCQ9qDfyK",
-    "duck_image": "",
+  "hungpui": {
+    "id": "hungpui",
+    "nickname": "Nyan#Tabby",
+    "avatar": "https://i.pinimg.com/474x/8a/fc/8a/8afc8adeb318696d4d20c805dc10fdfc.jpg",
+    "duck_image": "https://www.google.com/imgres?q=reid%20rezero&imgurl=https%3A%2F%2Fwww.tiktok.com%2Fapi%2Fimg%2F%3FitemId%3D7680508672547622162%26location%3D0%26aid%3D1988&imgrefurl=https%3A%2F%2Fwww.tiktok.com%2F%40kaisr.impact%2Fvideo%2F7680508672547622162&docid=cWVqytln698oFM&tbnid=UgSyF6K30WiSzM&vet=12ahUKEwi8jIaThaOXAxXrXusIHTOrG9YQnPAOegUImQIQAA..i&w=1257&h=1676&hcb=2&itg=1&ved=2ahUKEwi8jIaThaOXAxXrXusIHTOrG9YQnPAOegUImQIQAA",
     "stats_ovr": 6.9,
     "hidden_elo": 1200.0,
     "form_score": 5.0,
