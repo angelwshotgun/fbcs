@@ -167,10 +167,10 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "hoanghiep": {
-    "id": "hoanghiep",
-    "nickname": "試してみるべき薬",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4hKBLdukn2QhPdqsvGMBnD3YsJ8-wT2B7Ju_d8_39w&s=10",
+  "havu": {
+    "id": "havu",
+    "nickname": "bonita",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3mpLsVp1ABWqA76irVsgBeAMvzgCOClgBbZJW_C9xNjZ0_kLNdO16DqxuxJucUSQbNLN426h_rTn7JFdSY8JocxeqUwoct5zYxq62Thf&s=10",
     "duck_image": "",
     "skill": 7.0,
     "champion_pool": 7.0,
@@ -627,11 +627,11 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "havu": {
-    "id": "havu",
-    "nickname": "bonita",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3mpLsVp1ABWqA76irVsgBeAMvzgCOClgBbZJW_C9xNjZ0_kLNdO16DqxuxJucUSQbNLN426h_rTn7JFdSY8JocxeqUwoct5zYxq62Thf&s=10",
-    "duck_image": "",
+  "hoanghiep": {
+    "id": "hoanghiep",
+    "nickname": "試してみるべき薬",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4hKBLdukn2QhPdqsvGMBnD3YsJ8-wT2B7Ju_d8_39w&s=10",
+    "duck_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpjtERHZftmTUgLRL-whfXlGqY6daeiHdNVPtF5Blciw&s=10",
     "stats_ovr": 6.9,
     "hidden_elo": 1200.0,
     "form_score": 5.0,
