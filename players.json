@@ -127,6 +127,22 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "dogtung": {
+    "id": "dogtung",
+    "nickname": "Đỗ Tùng ON",
+    "avatar": "https://tse2.mm.bing.net/th/id/OIP.jRCTHnYw27ITGxq1zQWQkgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "duck_image": "",
+    "skill": 7.0,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ALL",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "duygudboy": {
     "id": "duygudboy",
     "nickname": "DuyGudBoy",
@@ -183,22 +199,6 @@
     "id": "hoanghiep",
     "nickname": "試してみるべき薬",
     "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4hKBLdukn2QhPdqsvGMBnD3YsJ8-wT2B7Ju_d8_39w&s=10",
-    "duck_image": "",
-    "skill": 7.0,
-    "champion_pool": 7.0,
-    "flex_lane": 6.5,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "ALL",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "hungpui": {
-    "id": "hungpui",
-    "nickname": "Nyan#Tabby",
-    "avatar": "https://tr.rbxcdn.com/180DAY-3443bb58d4b7de588ac951fef4cb9fce/420/420/FaceAccessory/Webp/noFilter",
     "duck_image": "",
     "skill": 7.0,
     "champion_pool": 7.0,
@@ -639,10 +639,10 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "dogtung": {
-    "id": "dogtung",
-    "nickname": "Đỗ Tùng ON",
-    "avatar": "https://tse2.mm.bing.net/th/id/OIP.jRCTHnYw27ITGxq1zQWQkgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+  "hungpui": {
+    "id": "hungpui",
+    "nickname": "Твоя мать толста#mmb",
+    "avatar": "https://tr.rbxcdn.com/180DAY-3443bb58d4b7de588ac951fef4cb9fce/420/420/FaceAccessory/Webp/noFilter",
     "duck_image": "",
     "stats_ovr": 6.9,
     "hidden_elo": 1200.0,
