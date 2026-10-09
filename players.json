@@ -39,6 +39,22 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "backy": {
+    "id": "backy",
+    "nickname": "wangb",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=backy",
+    "duck_image": "",
+    "skill": 7.0,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ALL",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "bbom": {
     "id": "bbom",
     "nickname": "Picasso II#vn2",
@@ -106,26 +122,6 @@
       "Xin Zhao",
       "Sejuani",
       "Nocturne"
-    ],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
-  "dogtung": {
-    "id": "dogtung",
-    "nickname": "Cactus",
-    "avatar": "https://tse2.mm.bing.net/th/id/OIP.jRCTHnYw27ITGxq1zQWQkgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-    "duck_image": "",
-    "skill": 8.5,
-    "champion_pool": 5.0,
-    "flex_lane": 6.0,
-    "consistency": 2.0,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [
-      "Jayce",
-      "Corki",
-      "Tristana"
     ],
     "hidden_elo": 1200.0,
     "form_score": 5.0,
@@ -643,10 +639,14 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "backy": {
-    "id": "backy",
-    "nickname": "wangb",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=backy",
-    "duck_image": ""
+  "dogtung": {
+    "id": "dogtung",
+    "nickname": "Đỗ Tùng ON",
+    "avatar": "https://tse2.mm.bing.net/th/id/OIP.jRCTHnYw27ITGxq1zQWQkgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "duck_image": "",
+    "stats_ovr": 6.9,
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
   }
 }
