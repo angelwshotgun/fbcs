@@ -211,6 +211,22 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "hungpui": {
+    "id": "hungpui",
+    "nickname": "Твоя мать толста#mmb",
+    "avatar": "https://tr.rbxcdn.com/180DAY-3443bb58d4b7de588ac951fef4cb9fce/420/420/FaceAccessory/Webp/noFilter",
+    "duck_image": "",
+    "skill": 7.0,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ALL",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "keymis": {
     "id": "keymis",
     "nickname": "Karrot Senpai",
@@ -639,14 +655,10 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "hungpui": {
-    "id": "hungpui",
-    "nickname": "Твоя мать толста#mmb",
-    "avatar": "https://tr.rbxcdn.com/180DAY-3443bb58d4b7de588ac951fef4cb9fce/420/420/FaceAccessory/Webp/noFilter",
-    "duck_image": "",
-    "stats_ovr": 6.9,
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
+  "randomguy": {
+    "id": "randomguy",
+    "nickname": "I was so Bad",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=randomguy",
+    "duck_image": ""
   }
 }
