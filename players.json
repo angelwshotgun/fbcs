@@ -179,22 +179,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "havu": {
-    "id": "havu",
-    "nickname": "bonita",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3mpLsVp1ABWqA76irVsgBeAMvzgCOClgBbZJW_C9xNjZ0_kLNdO16DqxuxJucUSQbNLN426h_rTn7JFdSY8JocxeqUwoct5zYxq62Thf&s=10",
-    "duck_image": "",
-    "skill": 7.0,
-    "champion_pool": 7.0,
-    "flex_lane": 6.5,
-    "consistency": 7.0,
-    "stats_ovr": 6.9,
-    "primary_role": "ALL",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "hoanghiep": {
     "id": "hoanghiep",
     "nickname": "試してみるべき薬",
@@ -439,6 +423,22 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "randomguy": {
+    "id": "randomguy",
+    "nickname": "I was so Bad",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=randomguy",
+    "duck_image": "",
+    "skill": 7.0,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ALL",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "roochan": {
     "id": "roochan",
     "nickname": "Roochan",
@@ -655,10 +655,14 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "randomguy": {
-    "id": "randomguy",
-    "nickname": "I was so Bad",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=randomguy",
-    "duck_image": ""
+  "havu": {
+    "id": "havu",
+    "nickname": "Cấp Số Nhân",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3mpLsVp1ABWqA76irVsgBeAMvzgCOClgBbZJW_C9xNjZ0_kLNdO16DqxuxJucUSQbNLN426h_rTn7JFdSY8JocxeqUwoct5zYxq62Thf&s=10",
+    "duck_image": "",
+    "stats_ovr": 6.9,
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
   }
 }
