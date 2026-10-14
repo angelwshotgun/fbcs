@@ -179,6 +179,22 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
+  "havu": {
+    "id": "havu",
+    "nickname": "Cấp Số Nhân",
+    "avatar": "https://scontent.fhan3-1.fna.fbcdn.net/v/t39.30808-1/476151972_1321629175657424_1032349147507329860_n.jpg?stp=dst-jpg_tt6&cstp=mx948x944&ctp=s200x200&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeFmNbofVmMHkD8DUrLO9xnWGhhIxny9tJkaGEjGfL20mTvuvvKfZfQXvjjYktQsBTMaNuF5rdnO1fSgqn3dbgNp&_nc_ohc=jp3eGmfRzpEQ7kNvwEqT8nd&_nc_oc=Adqap8PVsGHw_063fTukXfLOsikVB_bwfo20t59dGX4EpUUJFV-RBmGeLMolKBHbZxFhSpK4bo5XCCeOE135Uxoj&_nc_zt=24&_nc_ht=scontent.fhan3-1.fna&_nc_gid=k0FGpxQx53gTSpPi6c7png&_nc_ss=7b2a8&oh=00_AQNpNenXUMJ7alP6NhPNJWXhCZmw6fCbIAghkelGUJzVCg&oe=6AD1826C",
+    "duck_image": "",
+    "skill": 7.0,
+    "champion_pool": 7.0,
+    "flex_lane": 6.5,
+    "consistency": 7.0,
+    "stats_ovr": 6.9,
+    "primary_role": "ALL",
+    "favorite_champions": [],
+    "hidden_elo": 1200.0,
+    "form_score": 5.0,
+    "form_status": "neutral"
+  },
   "hoanghiep": {
     "id": "hoanghiep",
     "nickname": "試してみるべき薬",
@@ -515,22 +531,6 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "thngem": {
-    "id": "thngem",
-    "nickname": "thương em",
-    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=thngem",
-    "duck_image": "",
-    "skill": 8.0,
-    "champion_pool": 3.5,
-    "flex_lane": 3.5,
-    "consistency": 5.5,
-    "stats_ovr": 6.9,
-    "primary_role": "MID",
-    "favorite_champions": [],
-    "hidden_elo": 1200.0,
-    "form_score": 5.0,
-    "form_status": "neutral"
-  },
   "tieuchay": {
     "id": "tieuchay",
     "nickname": "Boi Phố Hà Tei#2810",
@@ -655,11 +655,11 @@
     "form_score": 5.0,
     "form_status": "neutral"
   },
-  "havu": {
-    "id": "havu",
-    "nickname": "Cấp Số Nhân",
-    "avatar": "https://scontent.fhan3-1.fna.fbcdn.net/v/t39.30808-1/476151972_1321629175657424_1032349147507329860_n.jpg?stp=dst-jpg_tt6&cstp=mx948x944&ctp=s200x200&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeFmNbofVmMHkD8DUrLO9xnWGhhIxny9tJkaGEjGfL20mTvuvvKfZfQXvjjYktQsBTMaNuF5rdnO1fSgqn3dbgNp&_nc_ohc=jp3eGmfRzpEQ7kNvwEqT8nd&_nc_oc=Adqap8PVsGHw_063fTukXfLOsikVB_bwfo20t59dGX4EpUUJFV-RBmGeLMolKBHbZxFhSpK4bo5XCCeOE135Uxoj&_nc_zt=24&_nc_ht=scontent.fhan3-1.fna&_nc_gid=k0FGpxQx53gTSpPi6c7png&_nc_ss=7b2a8&oh=00_AQNpNenXUMJ7alP6NhPNJWXhCZmw6fCbIAghkelGUJzVCg&oe=6AD1826C",
-    "duck_image": "",
+  "thngem": {
+    "id": "thngem",
+    "nickname": "thương em",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=thngem",
+    "duck_image": "https://i.pinimg.com/736x/f6/cc/66/f6cc66f649506ce040b42d5fd7c6f8b3.jpg",
     "stats_ovr": 6.9,
     "hidden_elo": 1200.0,
     "form_score": 5.0,
